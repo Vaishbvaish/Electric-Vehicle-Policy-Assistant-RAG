@@ -1,0 +1,231 @@
+{
+  "checked_at_utc": "2026-09-29T16:43:17.781716+00:00",
+  "notebook_sha256": "66cb4b572fb15220d29643045754633388d59cba9c8c520bf556b88c4e669068",
+  "check_script_sha256": "6c5ac9167ec98661cda74dd0290a6263d7dbc52c0c27e6a210060130247de322",
+  "source_manifest_sha256": "914260d5c4c942ee0db5908a5e0aacb1be38cc61922e3930b64086335706e179",
+  "retrieval_rules_sha256": "930b0c19219209c25ad1a3f3d8ba2e61031358662c3fe9a3118fa42025c44f96",
+  "index_spec": {
+    "collection": "ev_policy_draft",
+    "corpus_sha256": "25dd54fe4aa64a12fc30169addec4baf139712b8020cf313dc0c315d3cd76897",
+    "chunk_count": 804,
+    "embedding": {
+      "model": "nomic-embed-text:latest",
+      "digest": "0a109f422b47e3a30ba2b10eca18548e944e8a23073ee3f3e947efcf3c45e59f",
+      "num_ctx": 2048,
+      "langchain_ollama": "0.3.7"
+    },
+    "distance": "cosine",
+    "chunks_by_state": {
+      "Maharashtra": 53,
+      "Tamil Nadu": 78,
+      "Central": 100,
+      "Uttar Pradesh": 117,
+      "Delhi": 132,
+      "Gujarat": 31,
+      "Telangana": 32,
+      "Karnataka": 105,
+      "Madhya Pradesh": 156
+    }
+  },
+  "technical_status": "passed",
+  "scope": "AI development checks; not team source review or formal evaluation",
+  "checks_passed": [
+    "reopen_all_records_without_corpus_embedding",
+    "31_gujarat_chunks",
+    "three_gujarat_aliases",
+    "five_filtered_semantic_queries",
+    "conditions_and_continuations_present",
+    "historical_context_isolated_and_tax_chain_complete",
+    "all_10_pages_assemble_with_hashed_exclusions_within_limit",
+    "known_generated_battery_limit_claims_withheld",
+    "historical_evidence_label_is_rendered",
+    "six_rejections_skip_models_and_clear_sources",
+    "gradio_lists_gujarat_and_other_loaded_jurisdictions"
+  ],
+  "embedding_calls": {
+    "corpus": 0,
+    "query": 6
+  },
+  "observations": [
+    {
+      "question": "What two-wheeler purchase incentive rate, battery capacity limit, ex-factory price ceiling, policy period and scheme-stacking conditions did the 2021 policy state?",
+      "page_ids": [
+        "gujarat_policy_2021-06-23:p3",
+        "gujarat_policy_2021-06-23:p5",
+        "gujarat_policy_2021-06-23:p4",
+        "gujarat_policy_2021-06-23:p6"
+      ],
+      "context_chars": 8303,
+      "status": "retrieved"
+    },
+    {
+      "question": "What tax rates and rebates are listed for electric auto rickshaws licensed for up to three passengers, and what deadline does the 2026 extension state?",
+      "page_ids": [
+        "gujarat_policy_2021-06-23:p3",
+        "gujarat_motor_vehicle_tax_2025-04-17:p1",
+        "gujarat_motor_vehicle_tax_2025-04-17:p2",
+        "gujarat_policy_2021-06-23:p4",
+        "gujarat_policy_2021-06-23:p5",
+        "gujarat_policy_2021-06-23:p6",
+        "gujarat_motor_vehicle_tax_2025-04-17:p3",
+        "gujarat_motor_vehicle_tax_extension_2026-03-30:p4",
+        "gujarat_motor_vehicle_tax_extension_2026-03-30:p5"
+      ],
+      "context_chars": 15282,
+      "status": "retrieved"
+    },
+    {
+      "question": "What charging-station equipment subsidy, cap, station count and other-subsidy exclusion did the 2021 policy describe?",
+      "page_ids": [
+        "gujarat_policy_2021-06-23:p3",
+        "gujarat_policy_2021-06-23:p5",
+        "gujarat_policy_2021-06-23:p4",
+        "gujarat_policy_2021-06-23:p6"
+      ],
+      "context_chars": 8303,
+      "status": "retrieved"
+    },
+    {
+      "question": "What tax rate, rebate and effective rate are listed for electric private service vehicles transporting educational-institution students or staff?",
+      "page_ids": [
+        "gujarat_policy_2021-06-23:p3",
+        "gujarat_motor_vehicle_tax_2025-04-17:p1",
+        "gujarat_motor_vehicle_tax_2025-04-17:p2",
+        "gujarat_policy_2021-06-23:p4",
+        "gujarat_policy_2021-06-23:p5",
+        "gujarat_policy_2021-06-23:p6",
+        "gujarat_motor_vehicle_tax_2025-04-17:p3",
+        "gujarat_motor_vehicle_tax_extension_2026-03-30:p4",
+        "gujarat_motor_vehicle_tax_extension_2026-03-30:p5"
+      ],
+      "context_chars": 15282,
+      "status": "retrieved"
+    },
+    {
+      "question": "What historical manufacturing-policy reference and charging tariff conditions are stated?",
+      "page_ids": [
+        "gujarat_policy_2021-06-23:p3",
+        "gujarat_policy_2021-06-23:p6",
+        "gujarat_policy_2021-06-23:p5",
+        "gujarat_policy_2021-06-23:p7",
+        "gujarat_policy_2021-06-23:p4"
+      ],
+      "context_chars": 9090,
+      "status": "retrieved"
+    },
+    {
+      "all_page_context_range": [
+        8303,
+        15282
+      ]
+    },
+    {
+      "selection": "GJ",
+      "question": "Tamil Nadu purchase subsidy?",
+      "result": {
+        "status": "clarification_required",
+        "answer": "Align the selected jurisdiction and the jurisdiction named in your question.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": "Gujarat",
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Gujarat",
+      "question": "Compare Gujarat and Maharashtra incentives",
+      "result": {
+        "status": "clarification_required",
+        "answer": "Ask about one state or Central at a time; split comparisons and combined benefits into separate queries.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": "Gujarat",
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Kerala",
+      "question": "Electric car subsidy?",
+      "result": {
+        "status": "unsupported_jurisdiction",
+        "answer": "Choose Central, Delhi, Gujarat, Karnataka, Madhya Pradesh, Maharashtra, Tamil Nadu, Telangana, Uttar Pradesh; other jurisdictions are not indexed yet.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": null,
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Gujarat",
+      "question": "",
+      "result": {
+        "status": "clarification_required",
+        "answer": "Enter a specific EV policy question and choose one jurisdiction.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": null,
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Gujarat",
+      "question": "Can I claim an EV subsidy today?",
+      "result": {
+        "status": "not_established",
+        "answer": "This prototype cannot verify current availability, remaining funds or your personal eligibility. Ask what the dated policy documents state; source review is still pending.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": "Gujarat",
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "current_entitlement_unverified",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Gujarat",
+      "question": "What two-wheeler purchase incentive rate, battery capacity limit, ex-factory price ceiling, policy period and scheme-stacking conditions did the 2021 policy state?",
+      "result": {
+        "status": "not_established",
+        "answer": "The 2021 Gujarat policy has an inconsistent battery-column reference. Source review is needed before this prototype interprets the purchase-subsidy battery limit or infers vehicle eligibility. Ask separately about the historical rate, price ceiling or period.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": "Gujarat",
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "gujarat_battery_limit_review_pending",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    }
+  ]
+}

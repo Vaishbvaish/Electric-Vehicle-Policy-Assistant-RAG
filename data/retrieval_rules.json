@@ -1,0 +1,1904 @@
+{
+  "verification_cutoff": "2026-09-23",
+  "review_status": "ai_prepared_pending_team_review",
+  "input_policy": "accept_documented_aliases_clarify_conflicts",
+  "input_policy_decision": "stated_recommended_assumption_no_reply_to_optional_question",
+  "jurisdiction_aliases": {
+    "Maharashtra": [
+      "maharashtra"
+    ],
+    "Tamil Nadu": [
+      "tamil nadu",
+      "tamilnadu"
+    ],
+    "Uttar Pradesh": [
+      "uttar pradesh"
+    ],
+    "Delhi": [
+      "delhi",
+      "new delhi",
+      "delhi nct",
+      "nct of delhi"
+    ],
+    "Gujarat": [
+      "gujarat",
+      "gujrat"
+    ],
+    "Telangana": [
+      "telangana",
+      "telengana"
+    ],
+    "Karnataka": [
+      "karnataka"
+    ],
+    "Madhya Pradesh": [
+      "madhya pradesh"
+    ],
+    "Central": [
+      "central",
+      "central government",
+      "union government",
+      "national scheme",
+      "pm e drive",
+      "pm edrive",
+      "pmedrive",
+      "fame",
+      "emps"
+    ],
+    "Andhra Pradesh": [
+      "andhra pradesh"
+    ],
+    "Arunachal Pradesh": [
+      "arunachal pradesh"
+    ],
+    "Assam": [
+      "assam"
+    ],
+    "Bihar": [
+      "bihar"
+    ],
+    "Chhattisgarh": [
+      "chhattisgarh"
+    ],
+    "Goa": [
+      "goa"
+    ],
+    "Haryana": [
+      "haryana"
+    ],
+    "Himachal Pradesh": [
+      "himachal pradesh"
+    ],
+    "Jharkhand": [
+      "jharkhand"
+    ],
+    "Kerala": [
+      "kerala"
+    ],
+    "Manipur": [
+      "manipur"
+    ],
+    "Meghalaya": [
+      "meghalaya"
+    ],
+    "Mizoram": [
+      "mizoram"
+    ],
+    "Nagaland": [
+      "nagaland"
+    ],
+    "Odisha": [
+      "odisha"
+    ],
+    "Punjab": [
+      "punjab"
+    ],
+    "Rajasthan": [
+      "rajasthan"
+    ],
+    "Sikkim": [
+      "sikkim"
+    ],
+    "Tripura": [
+      "tripura"
+    ],
+    "Uttarakhand": [
+      "uttarakhand"
+    ],
+    "West Bengal": [
+      "west bengal"
+    ],
+    "Andaman and Nicobar Islands": [
+      "andaman and nicobar islands"
+    ],
+    "Chandigarh": [
+      "chandigarh"
+    ],
+    "Dadra and Nagar Haveli and Daman and Diu": [
+      "dadra and nagar haveli and daman and diu"
+    ],
+    "Jammu and Kashmir": [
+      "jammu and kashmir"
+    ],
+    "Ladakh": [
+      "ladakh"
+    ],
+    "Lakshadweep": [
+      "lakshadweep"
+    ],
+    "Puducherry": [
+      "puducherry"
+    ]
+  },
+  "uppercase_aliases": {
+    "MH": "Maharashtra",
+    "TN": "Tamil Nadu",
+    "UP": "Uttar Pradesh",
+    "MP": "Madhya Pradesh",
+    "GJ": "Gujarat",
+    "TS": "Telangana",
+    "KA": "Karnataka",
+    "DL": "Delhi"
+  },
+  "central_scope": "e2w_e3w_buyer_incentives",
+  "required_pages": {
+    "Maharashtra": [
+      "maharashtra_corrigendum_2025-08-29:p2",
+      "maharashtra_policy_2025-05-23:p16",
+      "maharashtra_operational_guidelines_2025-06-19:p2",
+      "maharashtra_operational_guidelines_2025-06-19:p3",
+      "maharashtra_operational_guidelines_2025-06-19:p4",
+      "maharashtra_operational_guidelines_2025-07-28:p1"
+    ],
+    "Tamil Nadu": [
+      "tamil_nadu_motor_vehicle_tax_2025-12-29:p1",
+      "tamil_nadu_policy_2023:p16",
+      "tamil_nadu_policy_2023:p27"
+    ],
+    "Central": [
+      "central_pm_edrive_extension_2026-08-10:p3",
+      "central_pm_edrive_extension_2026-03-27:p3",
+      "central_pm_edrive_l5_closure_2025-12-23:p1"
+    ],
+    "Uttar Pradesh": [
+      "uttar_pradesh_purchase_amendment_2024-07-15:p1",
+      "uttar_pradesh_purchase_amendment_2024-07-15:p2",
+      "uttar_pradesh_purchase_amendment_2024-07-15:p3",
+      "uttar_pradesh_purchase_amendment_2024-07-15:p4",
+      "uttar_pradesh_purchase_scheme_2023-07-14:p2",
+      "uttar_pradesh_registration_fee_2025-11-05:p3",
+      "uttar_pradesh_road_tax_2025-11-05:p3"
+    ],
+    "Delhi": [
+      "delhi_policy_2026-06-30:p12",
+      "delhi_policy_2026-06-30:p18",
+      "delhi_operating_guidelines_2026-07-02:p2"
+    ],
+    "Gujarat": [
+      "gujarat_policy_2021-06-23:p3"
+    ],
+    "Telangana": [
+      "telangana_policy_2020:p9",
+      "telangana_tax_fee_2024-11-16:p1"
+    ],
+    "Karnataka": [
+      "karnataka_policy_2025-02-11:p26"
+    ],
+    "Madhya Pradesh": [
+      "madhya_pradesh_policy_2025:p13",
+      "madhya_pradesh_guidelines_2025-09-15:p1"
+    ]
+  },
+  "jurisdiction_notes": {
+    "Maharashtra": "Read the 2025 policy with June/July operational conditions and the August section 4.2(1) replacement. The policy period alone does not establish purchase eligibility, portal deadlines or remaining allocation.",
+    "Tamil Nadu": "The later order extends motor vehicle tax only. The printed demand-incentive, registration-charge and permit-fee deadline is 31 December 2025; their extension is not established. The general policy period does not extend those benefits.",
+    "Central": "PM E-DRIVE two-/three-wheeler buyer scope only. August 2026 governs the updated e2w/outlay/terminal clauses; March 2026 supplies the e-rickshaw row. L5 closure, fund limits and the separate claim deadline must remain visible. No live funding or individual entitlement is verified.",
+    "Uttar Pradesh": "Purchase subsidy: use the 15 July 2024 revised column, including cancellation of the 3W provision and five years from 14.10.2022 OR exhaustion of Rs 403.97 crore, whichever first. No verified remaining funds. Use the separate 5 November 2025 pure-EV orders for tax and registration fees; do not infer purchase benefits from them. Fleet subsidy maximum and fleet-ownership minimum are different conditions. Hindi pages are AI English readings, not official translations. Parent 17 October 2025 amendment and any later hybrid/aggregator directions remain unverified; abstain on their current applicability. Manufacturing/charging text is base-policy evidence, not verified current operational eligibility.",
+    "Delhi": "Final Delhi EV Policy 2026, notified 30 June with effect 1 July 2026, and 2 July operating guidelines. Use year-of-registration bands from date of notification exactly as printed; do not substitute the April draft or 2020 rates. The policy prevails on guideline inconsistency. The purchase application deadline is 30 days from RC generation; Annex XII instead says registration, so flag that wording discrepancy if relevant. The 60-day payment period starts at application submission and is conditional on verification. The car scrapping amount and applicant limit are separate; the Rs 30 lakh ceiling and car tax exception both apply. Model approval/listing, live allocation, portal acceptance and individual eligibility remain unverified; no current entitlement is established. External charging SoPs, tax implementation orders and 2023 aggregator rules are not a complete verified source chain.",
+    "Gujarat": "The 2021 policy operated for four years from 1 July 2021; treat purchase/charging provisions as historical, with no renewal established. The separate 17 April 2025 motor vehicle tax table is read with the 30 March 2026 deadline replacement to 31 March 2027; it does not renew the 2021 subsidy. Tax applies to the listed vehicle categories powered exclusively by an electric motor fed exclusively by an installed battery. Tax rates/rebates must come from the matching tax-table row, never from the cash subsidy table. The full 2017 parent tax schedule, later amendments, operational claims, live funds and individual eligibility remain unverified. Policy 8(iv) refers to battery capacity in column (2), but Table 2 places it in (3); preserve the discrepancy and do not invent a corrected legal interpretation. Demand incentive permits central stacking but only one State scheme; charging subsidy has a different exclusion for other Government of India subsidies. Separate GEDA/student schemes and current tariff/industrial incentive schedules are outside this packet. When describing the battery limit, distinguish the maximum subsidised capacity from vehicle eligibility: Table 2/8(iv) does not expressly disqualify a larger battery. Explicitly flag that 8(iv) says column (2) but the battery values are actually in column (3); never repeat the wrong reference as a correct table description. Use past tense for the expired 2021 purchase provisions. The policy period is printed on physical PDF page 3, the purchase table/conditions on page 5 and charging conditions on page 6; cite the page containing each fact.",
+    "Telangana": "The booklet is dated only 2020; its 2020-01-01 metadata is a year sorting placeholder, not a notification date. It states ten years from notification. Use the separate 16 November 2024 G.O.41 for road tax and registration fees: 100% exemption for its listed electric categories purchased and registered in Telangana up to 31 December 2026, irrespective of number registered. Old 2020 tax/fee quotas are excluded from answer context. The lifetime bus wording is limited to TSRTC-operated vehicles, with a separate qualification for industry buses used exclusively for own employees and not commercial purposes; do not say all buses receive lifetime exemption. The 2024 tax/fee change does not establish a cash purchase subsidy or remove the distinct retrofit 15%/Rs.15000/first5000 conditions. Charging provisions often encourage facilities; do not treat these as installed stations, compulsory spacing or a rupee tariff. Manufacturing highlights refer to Electronics Policy 2016, whose full terms and subsequent revisions are not collected. Original policy targets are not achieved results. Full later-amendment/Act review, operational status, funds, retrofit quota and individual eligibility remain unverified; no current entitlement is established.",
+    "Karnataka": "Read the 11 February 2025 Clean Mobility Policy for five years from its order or until replaced, with its transition and sanction conditions. The old broad vehicle-tax exemption paragraph is excluded in favour of final Act 29 of 2026, published 10 April (assent 9 April). Its commencement requires a separate notification that is not collected; publication is not a verified effective date. Part A5(a) gives new electric cars/jeeps/omnibuses/private-service vehicles cost slabs <=Rs10 lakh:5%, >Rs10 to <=Rs25 lakh:8%, >Rs25 lakh:10%, each of vehicle cost. Part A8(a) separately covers electric motor cabs with its out-of-State permit exclusion. Age-table percentages are of the clause-A lifetime tax, not of vehicle cost; refunds have different time boundaries. Do not describe a blanket road-tax exemption. GSR525(E) is a common CMVR rule hosted by Karnataka Transport, not a state purchase subsidy: it only exempts rule81 table serial4 fees for issue/renewal of RC and new registration mark, not every fee. Charging and manufacturing incentives are not cash subsidies for buying a private car. Keep general/special categories, zone rates, caps, eligible fixed assets and employment/stacking conditions distinct. Slow chargers have no incentive in the supplied policy; 500/200 station counts are scheme limits, not remaining slots. Industrial stamp duty/registration concessions concern specified documents, not vehicle registration. MSME definitions may change subject to State enabling orders; those orders and full Industrial Policy2025-30 are not collected. Appendix2 prints zone totals199/32/9 but the labelled AI row count is198/33/9; do not silently alter a taluk assignment to reconcile totals. All table proposals, later-instrument completeness, commencement, operational eligibility, funds and current entitlement remain unverified. For tax-table answers, include a separate point stating that commencement is not verified and cite the Act commencement clause on physical page 2. For charging, report the printed capital subsidy percentage without adding a project-cost or station-cost basis that the excerpt does not define.",
+    "Madhya Pradesh": "Final 2025 booklet plus 15 September 2025 operational guidelines. Booklet date metadata is a year-only placeholder; guideline cover references a 27 March 2025 policy notification. Original gazette and separate April 2025 transport-tax notification are not collected. Describe stated first/second-year windows; do not assert present entitlement or verified tax commencement. E-car policy exemption has an ex-factory price ceiling of Rs20 lakh; a guideline table omitting that ceiling does not establish its repeal. All incentives require vehicles purchased and registered in MP. Retrofit amounts are not new-vehicle purchase subsidies; retain first-year, initial MP registration, approved-kit, re-registration and one-time-per-individual conditions. Charging rate is 30% of charging equipment/machinery value; swapping uses eligible fixed capital investment. Annex11 excludes auxiliary equipment, transformers and fire-safety equipment. Station counts are scheme limits, not remaining slots. Follow first-come approval, safety/accessibility and 97% monthly uptime requirements. 112kW LT/HT classification differs from the separate up-to-150kW connection inspection rule. RWA section14 exempts a 15A socket on an individual meter from NOC; common-load higher-capacity installation follows seven WORKING days, with safety/regulatory reasons and written rejection. Annex15 labels seven days; Annex17 escalation form lists delay beyond 30 days: do not merge those into a new NOC deadline. Industrial incentives refer to uncollected IPP2025; no draft manufacturing figures or unverified tariff. Targets are not achieved outcomes. Existing OCR and AI readings, later instruments, funds and current eligibility remain unverified. Detailed engineering tests, charger specification diagram and omitted application/fleet-penalty annexures are outside indexed scope."
+  },
+  "page_rules": {
+    "maharashtra_policy_2025-05-23:p19": {
+      "page_text_sha256": "ebf4a6baa420ac7a23f30fbcbd6d3f0118be77fa6ce12e074be66efba9f8fd30",
+      "context_role": "candidate_with_updates",
+      "version_note": "Section 4.2(1) is replaced by the August corrigendum; unaffected demand/tax/charging text remains.",
+      "exclude_spans": [
+        {
+          "start": 1112,
+          "end": 1523,
+          "reason": "Section 4.2(1) superseded by August 2025 corrigendum",
+          "text_sha256": "53a1d29aa1be10f4191fb8187dbf62f227283e5ab44b743a9372613ced9967a5"
+        }
+      ],
+      "required_page_ids": [
+        "maharashtra_corrigendum_2025-08-29:p2"
+      ]
+    },
+    "maharashtra_corrigendum_2025-08-29:p2": {
+      "page_text_sha256": "822cd5c33c0682894741faf59f4455a4b4ea9a3a7bd546aeee8458b9a39c2975",
+      "context_role": "replacement_provision",
+      "version_note": "Replacement for section 4.2(1), including the reimbursement authority. Marathi OCR proposal remains unverified.",
+      "exclude_spans": []
+    },
+    "tamil_nadu_policy_2023:p16": {
+      "page_text_sha256": "4a14d90daf79d9e6d4d3ce1830e2f7a0a99f7dbfcb71bd4ad4b388c1c9038422",
+      "context_role": "historical_only",
+      "version_note": "Old road-tax paragraph omitted. Registration/permit fees and demand incentives have a printed 2025 end date; no extension established.",
+      "exclude_spans": [
+        {
+          "start": 470,
+          "end": 804,
+          "reason": "Use later motor-vehicle-tax notification for the 2026–2027 period",
+          "text_sha256": "d082ea6088d4d5aea0d0ebd41b026de92c2c3e7dd792c02ccf7a0046eba3da3f"
+        }
+      ],
+      "required_page_ids": [
+        "tamil_nadu_motor_vehicle_tax_2025-12-29:p1"
+      ]
+    },
+    "tamil_nadu_policy_2023:p17": {
+      "page_text_sha256": "fc0d4421c94f100be3374c300c701f686a1b24f50562b7d39f0d36a6749ce395",
+      "context_role": "historical_only",
+      "version_note": "Demand table is historical after its printed 2025 deadline; extension not established. The later tax order does not extend this table.",
+      "exclude_spans": []
+    },
+    "tamil_nadu_motor_vehicle_tax_2025-12-29:p1": {
+      "page_text_sha256": "fb6fe87e39b638e3d6990a1d327ba91470bc61bd4a26e3370d6a50ae50ce2e97",
+      "context_role": "dated_tax_notification",
+      "version_note": "Notified motor vehicle tax period: 1 January 2026–31 December 2027 only; not a purchase/registration/permit extension.",
+      "exclude_spans": []
+    },
+    "central_pm_edrive_notification_2024-09-29:p17": {
+      "page_text_sha256": "9982f16ac791b840a5197899c62cbc6fc22eacb4bc7ba4e26ad805e94ce8630d",
+      "context_role": "historical_only",
+      "version_note": "FAME/EMPS history only, not current PM E-DRIVE entitlement.",
+      "exclude_spans": []
+    },
+    "central_pm_edrive_notification_2024-09-29:p18": {
+      "page_text_sha256": "179bd4d711d1ec0d5182412cf32849543f8dfa4a8f7908672807ec279aa76da6",
+      "context_role": "candidate_with_updates",
+      "version_note": "Prior scheme period/outlay and allocation table omitted; read August/March updates.",
+      "exclude_spans": [
+        {
+          "start": 670,
+          "end": 1073,
+          "reason": "Prior para 5 replaced by August 2026 amendment",
+          "text_sha256": "5fae4904ac05ddcca4729b7ff4446ef44e1febf8ecd4720b6485cdb46a83c477"
+        },
+        {
+          "start": 2332,
+          "end": 2789,
+          "reason": "Prior allocation table is superseded; use retained category amendments",
+          "text_sha256": "b901a9d270e4637782181646c5fff92a568c7a8c92678be9a42c639132828b14"
+        }
+      ]
+    },
+    "central_pm_edrive_notification_2024-09-29:p20": {
+      "page_text_sha256": "9583c78bbfd9568153f5bc0876ceefa24690fc65ff5a443df4b90ac487d22fb3",
+      "context_role": "candidate_with_updates",
+      "version_note": "Earlier rate paragraph omitted; updated category tables and limits are supplied separately.",
+      "exclude_spans": [
+        {
+          "start": 3367,
+          "end": 3708,
+          "reason": "Earlier rate-year description superseded by later category amendments",
+          "text_sha256": "421c63f050bfc7c5dc3221f2e6a32be485f6bfadb7ee7d8f94db270b64258a3f"
+        }
+      ]
+    },
+    "central_pm_edrive_notification_2024-09-29:p24": {
+      "page_text_sha256": "85a8c7ccf6f75e1ee7638c4f03df327587dbeb27526b19d24f70221083c46c5c",
+      "context_role": "candidate_with_updates",
+      "version_note": "Prior paragraph 46 omitted; August 2026 provides updated fund/terminal/claim provisions.",
+      "exclude_spans": [
+        {
+          "start": 1276,
+          "end": 1664,
+          "reason": "Prior outlay and terminal date superseded by August 2026",
+          "text_sha256": "22603ccc426ba93969e911c2483b04e8a1ea5349d0d36432c794a9d73e7cbcb3"
+        }
+      ]
+    },
+    "central_pm_edrive_guidelines_2024-09-30:p1": {
+      "page_text_sha256": "1741df800662003796b51eb7bd96e7b6833d57bac90a83494bf388df6e7880e7",
+      "context_role": "candidate_with_updates",
+      "version_note": "Earlier scheme-period/outlay summary omitted; use August 2026.",
+      "exclude_spans": [
+        {
+          "start": 393,
+          "end": 857,
+          "reason": "Prior scheme-period/outlay summary superseded",
+          "text_sha256": "6609f683c6a872e94b1dfa2319c031ab83bccee4faef9f8c906aa0f3737162f3"
+        }
+      ]
+    },
+    "central_pm_edrive_guidelines_2024-09-30:p3": {
+      "page_text_sha256": "49aacbf68d15638c198c82bb17d6c80a0d8d20330de11ebe1da652594abc8d52",
+      "context_role": "candidate_with_updates",
+      "version_note": "Manufacture/registration and certificate-validity conditions retained; earlier rate paragraph omitted.",
+      "exclude_spans": [
+        {
+          "start": 706,
+          "end": 1067,
+          "reason": "Earlier rate-year summary superseded; updated 15% cap remains in current amendment",
+          "text_sha256": "cf462745cbb288f6ed0f210ca891fab66fb711795f7927cd7dc86ef6066ada5a"
+        }
+      ]
+    },
+    "central_pm_edrive_extension_2026-03-27:p3": {
+      "page_text_sha256": "3ff43f3d7853675038e50e10f8df312b509561341bce125a03ff1c34bb7c79b7",
+      "context_role": "category_update",
+      "version_note": "Only the e-rickshaw/e-cart amendment and common footnotes remain; earlier e2w and para 46 are omitted.",
+      "exclude_spans": [
+        {
+          "start": 545,
+          "end": 1959,
+          "reason": "March e2w/paragraph 46 provisions superseded by August 2026",
+          "text_sha256": "49451ad5ddadde39506db2878721a8e7f2436d473a33c55dd973a846061739e8"
+        }
+      ],
+      "required_page_ids": [
+        "central_pm_edrive_extension_2026-08-10:p3"
+      ]
+    },
+    "central_pm_edrive_extension_2026-08-10:p3": {
+      "page_text_sha256": "44eabf2826a6055ceefcdd2356b0078bad5ed5289a91eae21dab46744d9e2725",
+      "context_role": "latest_update_in_packet",
+      "version_note": "Latest e2w, outlay and terminal/claim provisions in the saved packet; retain year columns, 15% cap and fund limitation.",
+      "exclude_spans": []
+    },
+    "central_pm_edrive_l5_closure_2025-12-23:p1": {
+      "page_text_sha256": "9778c5ba6c873b6fc21ba5dc0f511514f39e555f6e178197918f9cb30adfcaed",
+      "context_role": "closure_notice",
+      "version_note": "L5 segment closure notice; newer scheme extension does not reopen L5.",
+      "exclude_spans": []
+    },
+    "central_pm_edrive_notification_2024-09-29:p23": {
+      "page_text_sha256": "bf2e0dd0390907737b7bd9c2de5171fff4f3c070964085221e9fb76786720bd3",
+      "context_role": "candidate_with_updates",
+      "version_note": "Eligibility/certification references require the March 2025 PMP replacement.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "central_pm_edrive_amendment_2025-03-03:p5",
+        "central_pm_edrive_amendment_2025-03-03:p6",
+        "central_pm_edrive_amendment_2025-03-03:p7"
+      ]
+    },
+    "central_pm_edrive_guidelines_2024-09-30:p6": {
+      "page_text_sha256": "2b8939a4669fae11a8351d7131829cc059ac7088b0cef741b797555f4a168d69",
+      "context_role": "candidate_with_updates",
+      "version_note": "Eligibility/certification references require the March 2025 PMP replacement.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "central_pm_edrive_amendment_2025-03-03:p5",
+        "central_pm_edrive_amendment_2025-03-03:p6",
+        "central_pm_edrive_amendment_2025-03-03:p7"
+      ]
+    },
+    "central_pm_edrive_guidelines_2024-09-30:p7": {
+      "page_text_sha256": "49be2e453d04c48c2f57d91ecaeb80fbbd904f4abedfa34e8a754383835bb42d",
+      "context_role": "candidate_with_updates",
+      "version_note": "Eligibility/certification references require the March 2025 PMP replacement.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "central_pm_edrive_amendment_2025-03-03:p5",
+        "central_pm_edrive_amendment_2025-03-03:p6",
+        "central_pm_edrive_amendment_2025-03-03:p7"
+      ]
+    },
+    "central_pm_edrive_amendment_2025-03-03:p7": {
+      "page_text_sha256": "ae6a86f1d87cd4914f2bce9b9323c683960857316698e3132cb7014f3100e85a",
+      "context_role": "candidate_with_updates",
+      "version_note": "Retain continuation of two-/three-wheeler PMP conditions; bus-only annexure omitted.",
+      "exclude_spans": [
+        {
+          "start": 403,
+          "end": 3497,
+          "reason": "Outside the Central buyer pilot",
+          "text_sha256": "932a1d472ab8138efe4f63e4c146a76c68bd6013fd5a31f1af91e051b85f6dc6"
+        }
+      ]
+    },
+    "central_pm_edrive_amendment_2025-03-03:p8": {
+      "page_text_sha256": "07ff6efdc5ec1153dc43b8b16207f7b6cfb18843b041b1fc31cb4a9fdd61b6d0",
+      "context_role": "excluded_outside_scope",
+      "version_note": "Bus/specialist PMP page is outside the Central buyer pilot.",
+      "exclude_spans": [
+        {
+          "start": 0,
+          "end": 2548,
+          "reason": "Outside the Central buyer pilot",
+          "text_sha256": "07ff6efdc5ec1153dc43b8b16207f7b6cfb18843b041b1fc31cb4a9fdd61b6d0"
+        }
+      ]
+    },
+    "central_pm_edrive_notification_2024-09-29:p26": {
+      "page_text_sha256": "4cc0f6547b3c8455b6722790aa177b4289c72c4676bd46da9e8b3a85fb77662d",
+      "context_role": "candidate_with_updates",
+      "version_note": "Two-/three-wheeler performance rows retained; bus performance section omitted.",
+      "exclude_spans": [
+        {
+          "start": 1062,
+          "end": 1548,
+          "reason": "Outside the Central buyer pilot",
+          "text_sha256": "ffd8dde8d87f23ac8c8e63a9ea9c29874b741fc658d88e90b9dead46d36d93b6"
+        }
+      ]
+    },
+    "uttar_pradesh_policy_2022:p18": {
+      "page_text_sha256": "857d1dfd512b2612c0d091e44868aed007084a40847407c456755ee2aed6e635",
+      "context_role": "definitions_with_superseded_benefits_removed",
+      "version_note": "Original fiscal paragraph omitted; read later purchase, road-tax and fee orders. The PDF also visually masks its 3W row although the hidden extraction still contains it.",
+      "exclude_spans": [
+        {
+          "start": 819,
+          "end": 2619,
+          "text_sha256": "ab92ae5e87e166e51fdf29e1e7287c242f994365aeec16f8b849302af6a02235",
+          "reason": "Original fiscal provisions superseded; do not expose hidden masked 3W row."
+        }
+      ]
+    },
+    "uttar_pradesh_policy_2022:p19": {
+      "page_text_sha256": "852b62851959b07d719ab998790b843d09f298f9ea2a72a87d22356043218b50",
+      "context_role": "unaffected_implementation_and_conditions",
+      "version_note": "Purchase notes replaced by the amendment; retain implementation and other-state restriction.",
+      "exclude_spans": [
+        {
+          "start": 0,
+          "end": 254,
+          "text_sha256": "a5b06d5e71d934df03fe0eabd224372af04a7a407a3b76f468ba4d701a824dea",
+          "reason": "Purchase-subsidy note continuation replaced by the revised column."
+        }
+      ]
+    },
+    "uttar_pradesh_purchase_scheme_2023-07-14:p1": {
+      "page_text_sha256": "01d942cb591ef3d27ee633cdef324e36d3c3a389f2ec5b0c4e7746a1291fb7f5",
+      "context_role": "implementation_with_old_period_removed",
+      "version_note": "2023 period superseded by 2024 amendment.",
+      "exclude_spans": [
+        {
+          "start": 314,
+          "end": 436,
+          "text_sha256": "70526674dcf6b86566fa5e52361cf89e6d025980aab3f80eb623719613ef3f53",
+          "reason": "Original one-year purchase-subsidy period superseded."
+        }
+      ]
+    },
+    "uttar_pradesh_purchase_amendment_2024-07-15:p1": {
+      "page_text_sha256": "c3a0066f68c96567c76241e6b678a2b11aeae544aa28454cb46f63f94d025078",
+      "context_role": "revised_purchase_provision_ai_translation",
+      "version_note": "AI English reading of revised column only; old column excluded. All retained conditions apply.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_purchase_amendment_2024-07-15:p2": {
+      "page_text_sha256": "9c751721c1dcd04c6bf9e260be6f422b51f61489976924613393dc02c3ff9764",
+      "context_role": "revised_purchase_provision_ai_translation",
+      "version_note": "AI English reading of revised column only; old column excluded. All retained conditions apply.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_purchase_amendment_2024-07-15:p3": {
+      "page_text_sha256": "156f4f2498cfe3427dcfcb9d4b6fbd5e00164f81a9e4159a38b43ae3f02e4029",
+      "context_role": "revised_purchase_provision_ai_translation",
+      "version_note": "AI English reading of revised column only; old column excluded. All retained conditions apply.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_purchase_amendment_2024-07-15:p4": {
+      "page_text_sha256": "be60cf9caecf1d3544d2d9f86e92c96adcff28c32ccf260f563fdb02dc0be718",
+      "context_role": "revised_purchase_provision_ai_translation",
+      "version_note": "AI English reading of revised column only; old column excluded. All retained conditions apply.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_operator_guidelines_2025-08-18:p5": {
+      "page_text_sha256": "25cec829cd644fe8fdb92b5c94db3aebc910ddb63bdba84e123c0faa422639ef",
+      "context_role": "operator_conditions_ai_translation",
+      "version_note": "18 August 2025 directions; do not treat historical hybrid/aggregator references as proof of current eligibility. Read with subsequent orders.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_operator_guidelines_2025-08-18:p6": {
+      "page_text_sha256": "e3cd043ebcb25a2b462c303d5624131ee5b4fa282dc240073020d76c005bb392",
+      "context_role": "operator_conditions_ai_translation",
+      "version_note": "18 August 2025 directions; do not treat historical hybrid/aggregator references as proof of current eligibility. Read with subsequent orders.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_operator_guidelines_2025-08-18:p7": {
+      "page_text_sha256": "fb2a4a2b0995687ebf09905e06bb9adda4e485878d8d10e30d761dd8c95163ed",
+      "context_role": "operator_conditions_ai_translation",
+      "version_note": "18 August 2025 directions; do not treat historical hybrid/aggregator references as proof of current eligibility. Read with subsequent orders.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_operator_guidelines_2025-08-18:p8": {
+      "page_text_sha256": "c2301a453b76439eb6b8396e076ce0bca0cca6aaf07f6e4ad38e44fe64c7b875",
+      "context_role": "operator_conditions_ai_translation",
+      "version_note": "18 August 2025 directions; do not treat historical hybrid/aggregator references as proof of current eligibility. Read with subsequent orders.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_registration_fee_2025-11-05:p3": {
+      "page_text_sha256": "c241712455785789064d6738c33681cd33ac2d56a233efe99bfc604b618d9997",
+      "context_role": "registration_fee_only_pure_evs",
+      "version_note": "Only pure EV registration fee; bought and registered in UP during the printed periods, not a subsidy extension.",
+      "exclude_spans": []
+    },
+    "uttar_pradesh_road_tax_2025-11-05:p3": {
+      "page_text_sha256": "313ad59fadfe5e1a7d63d6199079ce7b3f129ca0cc4c66a5937eeca7d4ec1873",
+      "context_role": "road_tax_only_pure_evs",
+      "version_note": "Only pure EV road tax; bought and registered in UP during the printed periods, not a subsidy extension.",
+      "exclude_spans": []
+    },
+    "delhi_policy_2026-06-30:p12": {
+      "page_text_sha256": "8efede616a719830dfa7dbbfbe95e590959be51fe332ef07a43a6703e05b4ef1",
+      "context_role": "dated_policy",
+      "version_note": "Final notified 2026 policy; read with operating conditions. Current availability is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_policy_2026-06-30:p13": {
+      "page_text_sha256": "3a975f6f13736813ae3e71dcb26bc7f969bc0c53cff0aed14dfc6908e8d29d6e",
+      "context_role": "dated_policy",
+      "version_note": "Final notified 2026 policy; read with operating conditions. Current availability is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_policy_2026-06-30:p14": {
+      "page_text_sha256": "8fe2b45d622856aec46d727ccf4e2ecf84f2339217123944f1e8a6898d6d154c",
+      "context_role": "dated_policy",
+      "version_note": "Final notified 2026 policy; read with operating conditions. Current availability is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_policy_2026-06-30:p15": {
+      "page_text_sha256": "b4c3451ecc37452853d3446885c13ec010198aab04abd7c8203aa97e9af80ea2",
+      "context_role": "dated_policy",
+      "version_note": "Final notified 2026 policy; read with operating conditions. Current availability is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_policy_2026-06-30:p16": {
+      "page_text_sha256": "66412624eca5ec657236708b5cf8217c0247caba6ad6af0cb05e1900a28ff35e",
+      "context_role": "dated_policy",
+      "version_note": "Final notified 2026 policy; read with operating conditions. Current availability is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_policy_2026-06-30:p17": {
+      "page_text_sha256": "84a1c20a6d079ccb406578103a311cf9187a86e15484aa92e07e5d4c9d2a69f0",
+      "context_role": "dated_policy",
+      "version_note": "Final notified 2026 policy; read with operating conditions. Current availability is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_policy_2026-06-30:p18": {
+      "page_text_sha256": "cdc42ec3e17b5bda937c70476205b321dc5559f8920261ac2d22aa927595d371",
+      "context_role": "dated_policy",
+      "version_note": "Final notified 2026 policy; read with operating conditions. Current availability is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p1": {
+      "page_text_sha256": "38703ef940e37e33b017db4dfbbaf566ef837352d80a85364b147949918351ab",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p2": {
+      "page_text_sha256": "0f169d13f94152fd0a91af7a243eac0d746a4c2e2962ba6c3c2ba79f849b0045",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p3": {
+      "page_text_sha256": "4a56b786c741c52a51689ad1fc9ae91f961519320538fd04bb5c00379a5b77a9",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p4": {
+      "page_text_sha256": "6472994b8197e58cfec51a6a67ae326c4056b38a8831b4c315b86c722fc375cc",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p5": {
+      "page_text_sha256": "478fd4f67c4bba0b03dd34cf7daa8a6fc9672913ef880fe3a09024e6031b7a3b",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p6": {
+      "page_text_sha256": "153dec841c1748f3298010520fd323bf71a68a4ed52505b7a2360c983835c81e",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p7": {
+      "page_text_sha256": "6cbcd43043837cb873d012753686368cffcfe0dd668f456b9ef24c5030c8de2e",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p8": {
+      "page_text_sha256": "69bd5a23bd00d8c9044659770b26fe81dd2142bf7def44dcc60e5c42f052c040",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p9": {
+      "page_text_sha256": "a2e70584a3e3fc1b169c4bbb68d22bb785a2e5da34804ec1bc748bc84660edf6",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p10": {
+      "page_text_sha256": "aae81756bab7d9b521050080871808999b8fbfff7d7679844f0db9a8501cf166",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p11": {
+      "page_text_sha256": "75c273f50ce8966137c0634eb1bed4db4af0209b934ce962854ff37df9befb38",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p12": {
+      "page_text_sha256": "9938b189f436952bce31607a717cb3630b6e0a88e4a26781366a19a854241746",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p13": {
+      "page_text_sha256": "1743da762412c46ed06ad75a9a5126fdac2c9c5d6475a5d32a9c515804317544",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p14": {
+      "page_text_sha256": "d3c7ff3cfc7224663389cf9f999f6ec622b92cbb7f87a82c1762570f23b5c0f5",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p15": {
+      "page_text_sha256": "4709446469d318baf04532921f81b7319d86c393be2a7e519cd2eb26e613bbd6",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p16": {
+      "page_text_sha256": "bb7afd45a02111aaf5b245898f527d359a5b6260a9f5015cbb15db8dd51e74b4",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p17": {
+      "page_text_sha256": "5b13e4fe46f3cb8ad6cb92d3ae7e565c5876249be4974ad48d0cca787d7afe46",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p18": {
+      "page_text_sha256": "93f3b125283290b3926ea45067909ec62869b15070b866e02e8c990f40e23949",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p19": {
+      "page_text_sha256": "647a9c7de80e9584c313f6e7183328ba46860f4d93c341955bbc40933eb1f38f",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p20": {
+      "page_text_sha256": "55beca00bcb71d1789a9f2882ba5b8e292de952dd545df630615108c22d47160",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p21": {
+      "page_text_sha256": "f02ddf8ce8736ad71780cc0cb86084c5948c57eb9eebfcdd51c8b13384182671",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p22": {
+      "page_text_sha256": "7711fe1adbfa1016f354d503ba95b111efb9b89ec9c2d79c3d80f78640e30866",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p23": {
+      "page_text_sha256": "1a82b3d8efd6e2c85aa056f338bb65325d949e4a89f60ce5b1fbca283b661e56",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p24": {
+      "page_text_sha256": "4d512495851ca1f567aa2ecfcd3c6eacf5292b873abfd13d1adb6a18cca6a06e",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p25": {
+      "page_text_sha256": "4751256a4b7e85ee0ce842062fc170d7e953c3fcec20e17d0191d5d684785954",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p26": {
+      "page_text_sha256": "060586fde2865f8d1f3aff3357fb0d2ab3f26a7b8d97163ff281107433aa42c4",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p27": {
+      "page_text_sha256": "d667be82801d063c20b1eb6926d6a05b7cd5db7e8425688caf64bd195747a02a",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Technical tables apply to committee-assessed models; read the deemed-approved exceptions and periods on page 4.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p28": {
+      "page_text_sha256": "9ef975df13bb79a696241e8d4278dbed20c5a8703e4af9afc9aa336ee5a83321",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p29": {
+      "page_text_sha256": "98b994c48f31e567e2c0bf07b97fc71169df2ec86385b7e78a59c19958b75ab4",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p30": {
+      "page_text_sha256": "1cd9b4227a115c89c8133fa908c1a20a0ac2704a502fc2df134b0fae4a87feac",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p31": {
+      "page_text_sha256": "af9448bc29116700372022e9ffc0466168456dad9c8e0df4727d887bb519abc8",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p32": {
+      "page_text_sha256": "cfd5274c509c0cc2a7e55a0592531d7987bbeb682e0e820b1ed33a3b7bb17dbf",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p33": {
+      "page_text_sha256": "519692e9151068e832689f11cc91368c6393e357595f8b6a93e459d04c6d83a4",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p34": {
+      "page_text_sha256": "09988e6fa23bc988dd11ae2214d7e38f59bab770dc7c7734f4b0bf3ce14c1bb3",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Forms/checklist use registration, while policy 4.1.3 and guideline 17.1 use RC generation for the 30-day deadline; do not conflate them.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p35": {
+      "page_text_sha256": "d350eb29a293a1c772a7d22690e0c5595f851a8069dad98e0227359fa640c87e",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Forms/checklist use registration, while policy 4.1.3 and guideline 17.1 use RC generation for the 30-day deadline; do not conflate them.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p36": {
+      "page_text_sha256": "6fb78bfd1b16ec10584f35cd4abb6150f202a1e1613446a89a8607aa21939a6b",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Forms/checklist use registration, while policy 4.1.3 and guideline 17.1 use RC generation for the 30-day deadline; do not conflate them.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p37": {
+      "page_text_sha256": "eac65e50d879e73acb751cb71dd9d13e0deb799facf87902fc53807f1921250c",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Forms/checklist use registration, while policy 4.1.3 and guideline 17.1 use RC generation for the 30-day deadline; do not conflate them.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p38": {
+      "page_text_sha256": "f1c117e75c70dfa46f04e102e7dda57d67d3388cdc8d48059057394834f853aa",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Forms/checklist use registration, while policy 4.1.3 and guideline 17.1 use RC generation for the 30-day deadline; do not conflate them.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p39": {
+      "page_text_sha256": "87dd48fd37a8ef0a4648ecddd7b4f258dff6520a1275f412090dc06032aba22b",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p40": {
+      "page_text_sha256": "6d9cc3829db040991852954f9f2f1c8b6829fef92a0e334546a8eae9f8f69522",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p41": {
+      "page_text_sha256": "a55f7736a9fe12e4737e57f439147e26be502cea1aee8bcb9c08b7ea9b31f60f",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p42": {
+      "page_text_sha256": "ed4fee34ded10e17c954eca3b730d8ff365e7a50b9edcec10a0749b390a17347",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Forms/checklist use registration, while policy 4.1.3 and guideline 17.1 use RC generation for the 30-day deadline; do not conflate them.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p43": {
+      "page_text_sha256": "64bd9a36e1c14c05a55e981251591dd3e540b9963015ca3f82ba966c1d5872ab",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified. Forms/checklist use registration, while policy 4.1.3 and guideline 17.1 use RC generation for the 30-day deadline; do not conflate them.",
+      "exclude_spans": []
+    },
+    "delhi_operating_guidelines_2026-07-02:p44": {
+      "page_text_sha256": "055f5774a064af86bd54c5d6bfc1fa8f66e76ec33b4b82aed83e69082dae954b",
+      "context_role": "operating_conditions",
+      "version_note": "Operating guidelines dated 2 July 2026 (listed 8 July); policy prevails on inconsistency. Current operation is unverified.",
+      "exclude_spans": []
+    },
+    "gujarat_policy_2021-06-23:p3": {
+      "page_text_sha256": "f81ba9fe96000d4be1b3551cb07f98b1025fa42733b8c9becb8e164544ca5e8b",
+      "context_role": "historical_only",
+      "version_note": "2021 policy: four years from 1 July 2021 (end 30 June 2025 inferred). No purchase/charging extension established; later tax notification is separate.",
+      "exclude_spans": []
+    },
+    "gujarat_policy_2021-06-23:p4": {
+      "page_text_sha256": "a3fc3f155d4307c19721d4d2478d27809d6018b88346912e091d29dd75a771e4",
+      "context_role": "historical_only",
+      "version_note": "2021 policy: four years from 1 July 2021 (end 30 June 2025 inferred). No purchase/charging extension established; later tax notification is separate.",
+      "exclude_spans": []
+    },
+    "gujarat_policy_2021-06-23:p5": {
+      "page_text_sha256": "0fe51a70f5900b6dd94bbf07c72f97c81b78cedf8447ee85c987ddeb1901e8f9",
+      "context_role": "historical_only",
+      "version_note": "2021 policy: four years from 1 July 2021 (end 30 June 2025 inferred). No purchase/charging extension established; later tax notification is separate. Clause 8(iv) prints column (2), while battery capacity is in column (3); retain this discrepancy. Amounts are printed per kWh, not as lump-sum caps. When describing the battery limit, distinguish the maximum subsidised capacity from vehicle eligibility: Table 2/8(iv) does not expressly disqualify a larger battery. Explicitly flag that 8(iv) says column (2) but the battery values are actually in column (3); never repeat the wrong reference as a correct table description. Use past tense for the expired 2021 purchase provisions.",
+      "exclude_spans": []
+    },
+    "gujarat_policy_2021-06-23:p6": {
+      "page_text_sha256": "beabd189a317137763fe625b2e2ed8944560e3617e8fcea001e87cacc227af79",
+      "context_role": "historical_only",
+      "version_note": "2021 policy: four years from 1 July 2021 (end 30 June 2025 inferred). No purchase/charging extension established; later tax notification is separate.",
+      "exclude_spans": []
+    },
+    "gujarat_policy_2021-06-23:p7": {
+      "page_text_sha256": "99568dae036f1d698eb7d9a2e6907c3ab8f1866f155d27d9ec918be3b9ae0962",
+      "context_role": "historical_only",
+      "version_note": "2021 policy: four years from 1 July 2021 (end 30 June 2025 inferred). No purchase/charging extension established; later tax notification is separate. Embedded PDF OCR has minor heading/signature errors; not corrected or accepted by the team.",
+      "exclude_spans": [
+        {
+          "start": 787,
+          "end": 2592,
+          "text_sha256": "c2a3793f2478bbe6d5ef0c2c15d922d40fc7f348c25d7bcbb38a7c9eae70d38a",
+          "reason": "Distribution list, not policy provisions."
+        }
+      ]
+    },
+    "gujarat_motor_vehicle_tax_2025-04-17:p1": {
+      "page_text_sha256": "24c7183488ca5ac2225da561abf920e0d67aba5407752f151708ced907ea706b",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 tax table, read with the mandatory 30 March 2026 amendment. Original Match 2026 typo/deadline is superseded by 31 March 2027. Rebates differ by vehicle category; all listed effective rates are 1% of vehicle cost. This does not extend cash purchase subsidies. Initial 6% omnibus schedule entry is followed by the specific exclusively battery-powered EV override/table; do not confuse the two rates.",
+      "exclude_spans": []
+    },
+    "gujarat_motor_vehicle_tax_2025-04-17:p2": {
+      "page_text_sha256": "6996b9886ed5c8bc72d3889f6888d4b9b09e1124eea76cffa9d0e59ed1da59fe",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 tax table, read with the mandatory 30 March 2026 amendment. Original Match 2026 typo/deadline is superseded by 31 March 2027. Rebates differ by vehicle category; all listed effective rates are 1% of vehicle cost. This does not extend cash purchase subsidies. Auto-rickshaws licensed for at most three passengers: 2.5% existing, 1.5% rebate, 1% effective, each of vehicle cost; not a 5% rebate.",
+      "exclude_spans": []
+    },
+    "gujarat_motor_vehicle_tax_2025-04-17:p3": {
+      "page_text_sha256": "8b57b7ad698a60cfc8fb0924fe2bfb183de391ffe42464d0318723404244c8cb",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 tax table, read with the mandatory 30 March 2026 amendment. Original Match 2026 typo/deadline is superseded by 31 March 2027. Rebates differ by vehicle category; all listed effective rates are 1% of vehicle cost. This does not extend cash purchase subsidies.",
+      "exclude_spans": []
+    },
+    "gujarat_motor_vehicle_tax_extension_2026-03-30:p4": {
+      "page_text_sha256": "18c2b8a0aa9c15ab23cf09b339f144ce7c35c830fd944251ee182ef22bba1433",
+      "context_role": "dated_tax_extension",
+      "version_note": "Notification dated 30 March 2026, published 2 April. Replaces 31 March 2026 with 31 March 2027 in the clause above the EV tax table after the 2017 parent Schedule/Explanations; 2025 supplies the scope/table. Tax only.",
+      "exclude_spans": [
+        {
+          "start": 0,
+          "end": 3312,
+          "text_sha256": "75bb1692964ba68bda112617bcec55f689a6201794fad0893db3caa5357dbc48",
+          "reason": "Unrelated education admission rules before the tax notification."
+        }
+      ]
+    },
+    "gujarat_motor_vehicle_tax_extension_2026-03-30:p5": {
+      "page_text_sha256": "e3890b4e201e921ea0a86f3cd99053b7adce81d7296c510f2d2db505ac4e7e67",
+      "context_role": "dated_tax_extension",
+      "version_note": "Notification dated 30 March 2026, published 2 April. Replaces 31 March 2026 with 31 March 2027 in the clause above the EV tax table after the 2017 parent Schedule/Explanations; 2025 supplies the scope/table. Tax only.",
+      "exclude_spans": [
+        {
+          "start": 373,
+          "end": 2314,
+          "text_sha256": "8e6f57852e4449690786cb7fadd823fe03aa58af4e4f90024782a32dca4e7f07",
+          "reason": "Unrelated land-revenue notifications after the tax amendment."
+        }
+      ]
+    },
+    "telangana_policy_2020:p5": {
+      "page_text_sha256": "1ecc7d1bdb7543e6f8bb436c47cfa84ff0acb662bdbec491045c2bd6b9d96b90",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p6": {
+      "page_text_sha256": "2a6fc14fc280e793d27f9f9ed6796a764d27d91dc307da4cfcb927cd1ec5f987",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p7": {
+      "page_text_sha256": "8f2fecd6b675144719cb8dd391c7debfd6c66ee52cc414c830776134122c07cf",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p8": {
+      "page_text_sha256": "1e5937318b2b7634a0e95043c244650750f43242041b8327d2683c6ba0511cdf",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p9": {
+      "page_text_sha256": "08e3261b9a30ce6c150842c4a35bb6ead92ee731c8001f00889bb33e9ed25571",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p10": {
+      "page_text_sha256": "5f737f592df284aefabba0712eda383d23bfcbc7ef60248d7d2ead4645a271ef",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": [
+        {
+          "start": 230,
+          "end": 410,
+          "text_sha256": "5eb81374a63d7eeb100b7bb527582abfac5c9a759c871832e7bc72c85da4d4c2",
+          "reason": "Old tax/registration provision; use mandatory G.O.41 dated 16 November 2024. Retrofit conditions remain separate."
+        },
+        {
+          "start": 457,
+          "end": 588,
+          "text_sha256": "d76a8abf46c2c314229978098c837503953baa5b69469896f57b3066acc3133b",
+          "reason": "Old tax/registration provision; use mandatory G.O.41 dated 16 November 2024. Retrofit conditions remain separate."
+        },
+        {
+          "start": 868,
+          "end": 1166,
+          "text_sha256": "e9dfd5f439386b1851e2e8537bbb0232bbf9d53188a4babe737d74e3005cca0d",
+          "reason": "Old tax/registration provision; use mandatory G.O.41 dated 16 November 2024. Retrofit conditions remain separate."
+        },
+        {
+          "start": 1166,
+          "end": 1436,
+          "text_sha256": "11a8671fb0724fe853d4947beec99bc0e8b2fd76a43c7f982a5ec5781963c85b",
+          "reason": "Old tax/registration provision; use mandatory G.O.41 dated 16 November 2024. Retrofit conditions remain separate."
+        },
+        {
+          "start": 1436,
+          "end": 1620,
+          "text_sha256": "b51a7129e0cc567a615aaf874a2c8f8c1ac73d9958b9b4be955b3ad189293a0d",
+          "reason": "Old tax/registration provision; use mandatory G.O.41 dated 16 November 2024. Retrofit conditions remain separate."
+        },
+        {
+          "start": 1645,
+          "end": 1774,
+          "text_sha256": "4ec48b870563053c9a6c298b1211fc535dcce446dafc85dbc904033678c343f3",
+          "reason": "Old tax/registration provision; use mandatory G.O.41 dated 16 November 2024. Retrofit conditions remain separate."
+        },
+        {
+          "start": 1855,
+          "end": 2139,
+          "text_sha256": "5e7f2e7260f15c27957c955776ad043248041fa180642f5ef7c9ae98ecd239b1",
+          "reason": "Old tax/registration provision; use mandatory G.O.41 dated 16 November 2024. Retrofit conditions remain separate."
+        }
+      ]
+    },
+    "telangana_policy_2020:p11": {
+      "page_text_sha256": "2cce1d086dc2912a4bd8c6c1313697162bb4d70b7a6a9d15c28eacb9f0430997",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p12": {
+      "page_text_sha256": "4c5fd93349b8266ce58bbb64b82f8b67f734e4f338d7323fca961d3db224d4f1",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p13": {
+      "page_text_sha256": "d05fb646c22e1eddf15ec9a43c6722b03ed91dc85f66db83d5f64fa3fe83ddbc",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p14": {
+      "page_text_sha256": "13fd69f6fad02e92bbbea6a77170b036c17cfc8e2c1b9209d9915823032b0980",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p15": {
+      "page_text_sha256": "5c0870f07eb09263203d71b5ebe3ba95b1f9463e5028ba19cf87584e8a5ee05c",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_policy_2020:p16": {
+      "page_text_sha256": "fb0a358e0350962630f531cc827c76734d1bd9362977555a729fbf5c4d0cbbac",
+      "context_role": "candidate_with_updates",
+      "version_note": "2020 booklet: ten years from notification; manufacturing references Electronics Policy 2016. Read tax provisions with G.O.41 (2024); full later-instrument review pending.",
+      "exclude_spans": []
+    },
+    "telangana_tax_fee_2024-11-16:p1": {
+      "page_text_sha256": "8f085c112185f0fd622da277ac9c349b9ec3c1c1101d4b3db1df60cb66e6dbce",
+      "context_role": "dated_tax_notification",
+      "version_note": "G.O.41, 16 November 2024: listed EV road-tax and registration-fee exemptions through 31 December 2026 without vehicle-count quotas. Bus qualifications preserved. AI English OCR proposal pending team review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p2": {
+      "page_text_sha256": "b387d9d2a73e77f2c434ff3cb126556d0e21c595aaeff440c46a1317731178e1",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": [
+        {
+          "start": 3,
+          "end": 262,
+          "text_sha256": "a2b84d671685b8345a8311c0d9078d506a98bbb24e4dd53c410fdfc0e031b522",
+          "reason": "Historical 2017 policy period; the 2025 policy period is on physical page 26."
+        }
+      ]
+    },
+    "karnataka_policy_2025-02-11:p3": {
+      "page_text_sha256": "1d3b7b0124d96d3ecc659d04369922c4ba1e9b3977b1553ae0f9198a5cb352ca",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p6": {
+      "page_text_sha256": "0004bac4113dce3c3cb803a4dfb33b1b0321cc1bac82bec7a9f56796f7077998",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p7": {
+      "page_text_sha256": "f49b4f32ae181515aa5404e6d4ad4140daa4cc44b5f66c46a7ad27f830c7fcde",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p8": {
+      "page_text_sha256": "639a72b044766a0a8e57b306ea067899ffa44412c944915ec11f2f4cf29e23ed",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p9": {
+      "page_text_sha256": "ab8792714167352d5ebc6cd6b68739be43e9de8af32e9b2b420a9a8a6d4869b0",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p10": {
+      "page_text_sha256": "d0d4132152fe2c4789e15ff4bd15b741878d07238b6da5186a3f73e5ddcc8429",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p11": {
+      "page_text_sha256": "94febaecb9f74e55762fb3b7315465b6dea9456f1d181df88ed112f5d83cbf91",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p12": {
+      "page_text_sha256": "db63a8c9b56ece85ec1db4d5b270f7a8ca77503beebf96f357135e11397a2756",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": [
+        {
+          "start": 491,
+          "end": 1018,
+          "text_sha256": "55750f16d287417d95e327ea61276d42499c8e4ee0d3bb578372ec90b2ee403b",
+          "reason": "Older road-tax paragraph; mandatory 2026 Act supplies later slabs. Registration fee is a separate rule."
+        }
+      ]
+    },
+    "karnataka_policy_2025-02-11:p13": {
+      "page_text_sha256": "9a33cc8ad65a0dcfa3fa5e05f354ee0d61ad6575b7c0b838c55c86ec553efe9c",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p14": {
+      "page_text_sha256": "9ad12cd38f7275d630d071f7dee7fd7394f19225bc55082e463891262d84e85f",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p15": {
+      "page_text_sha256": "027cabe5f3a3329f804b848dce478ffe039374f2af39f43e595d92e70014eae4",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p16": {
+      "page_text_sha256": "c83d1a6a7b44124fa5c679ea49588b5872440628e31e098895f68abf4f97eb20",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p17": {
+      "page_text_sha256": "ac087eab3503abbbacb26dfefd00f9e596b22db60380c56d946c14cb42b0eeff",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p18": {
+      "page_text_sha256": "10cd17e20525200b14241c37ae229b5772925ce24a372cf18484083a06522095",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p19": {
+      "page_text_sha256": "a35ac01a5e61491d715a7d79a41d0f195acfe1473ed6499a9065ab2e29dda836",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p20": {
+      "page_text_sha256": "7dd8a15f54067e6c3d5ba3a1eb1530d55e8f791d035c70da67b1f21928e947b5",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p21": {
+      "page_text_sha256": "3f68e0b4397450ec1d75c15b3236310b94e5a701f921d6cedd3ceb31ae56f06c",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p22": {
+      "page_text_sha256": "27834d52aa4e5d767a42a97a3eea184c6f897a7043e94e4eef5ddd494d7cab68",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p23": {
+      "page_text_sha256": "15bce7b98a15d3acdb979821aa5d25a26daf3c967e3a108c0fc1a4ea70a23353",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p24": {
+      "page_text_sha256": "31484e95da45e23ae56635dd8ac8774257e0236af617402a768710fce16bddea",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p25": {
+      "page_text_sha256": "0592ed6e88adc09c9955d60c0b4a5b79b550fe6a53efad79785c9307f752b405",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p26": {
+      "page_text_sha256": "5c5efcdac0d57d3b5d43492f0797d20b73f1ea0595e70ac019af38a8c42fa9c3",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p27": {
+      "page_text_sha256": "3dcc534876ef08f93afd65c3061cff2e55ce244c9d0a31ead350d5128ecdd309",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p28": {
+      "page_text_sha256": "6783570db8448f82a6d5eb00ba689b807bd8a63a1f3601dce5631d504dfbe88a",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p29": {
+      "page_text_sha256": "419cb54eae528faa7c7e7301019d5ed1bc16d533fe49ae4d73980b680964237c",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p30": {
+      "page_text_sha256": "066023ec682cd8b42cdd74e4198ba7a1142614bed739d23dfbef27e166f680a8",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p31": {
+      "page_text_sha256": "5e6e0bdd67f5a32a067cfe507cb22d51443a66b115b7e52f922f2fbe05a2dce5",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p32": {
+      "page_text_sha256": "ae2a6ea35c657f4b8d41f18321b7a996009e08aa165c16b39fbcc408733dd753",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p33": {
+      "page_text_sha256": "74b8b8de1f8b9c67b3ff12b1dd6558fb38876ec458ee58cf015d9ed56f2ab8b9",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p34": {
+      "page_text_sha256": "cb1f575bb881060e308fcdef3d5d9a5d54c385eebdcecc62088b63ca02051734",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p35": {
+      "page_text_sha256": "6cffa5541b220ecce41c3c9f970bdca8aa7702ece74206e12fa8f2696d5607d8",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_policy_2025-02-11:p36": {
+      "page_text_sha256": "afda104e59cf8e3113a82c069d6333d28261ab51fc64462db5b85b80e27fcf51",
+      "context_role": "candidate_with_updates",
+      "version_note": "2025 policy with period, definitions, sanction/transition conditions. Tax paragraph superseded in context; nine labelled table proposals pending review.",
+      "exclude_spans": []
+    },
+    "karnataka_tax_amendment_2026-04-10:p2": {
+      "page_text_sha256": "1552d69f7101b8c7f25dc254bc37e866378228ee7dec7139736ef96aebf2f443",
+      "context_role": "dated_tax_amendment",
+      "version_note": "Act29 of2026, published10April. EV slabs, age/refund rows and cab exclusion; separate commencement notification not collected.",
+      "exclude_spans": [
+        {
+          "start": 1843,
+          "end": 2180,
+          "text_sha256": "983ee743fac9897a02bcf3174b1c1eb3b3d54b8ae183eae8bb8c637c14d8ffd2",
+          "reason": "Other vehicle schedules outside this EV packet."
+        }
+      ],
+      "required_page_ids": [
+        "karnataka_registration_fee_2021-08-02:p3"
+      ]
+    },
+    "karnataka_tax_amendment_2026-04-10:p6": {
+      "page_text_sha256": "5f4f661f8e0d2f4a4ee81d206470df6ed976d4f0ebe32e704a4280fbc3fc3a7b",
+      "context_role": "dated_tax_amendment",
+      "version_note": "Act29 of2026, published10April. EV slabs, age/refund rows and cab exclusion; separate commencement notification not collected.",
+      "exclude_spans": [
+        {
+          "start": 0,
+          "end": 234,
+          "text_sha256": "deda0f0e43e198629cc048f9c7a5c625633d52a9962bc2220b3996eccbe59595",
+          "reason": "Continuation of non-EV Part A5 before electric Part A5(a)."
+        }
+      ],
+      "required_page_ids": [
+        "karnataka_registration_fee_2021-08-02:p3"
+      ]
+    },
+    "karnataka_tax_amendment_2026-04-10:p7": {
+      "page_text_sha256": "bcb834bfce6e21ec949cd879247e6a0d5f666985b9a68c7a72641071dc710e89",
+      "context_role": "dated_tax_amendment",
+      "version_note": "Act29 of2026, published10April. EV slabs, age/refund rows and cab exclusion; separate commencement notification not collected.",
+      "exclude_spans": [
+        {
+          "start": 667,
+          "end": 961,
+          "text_sha256": "168d5ae5985880b91a5236c0c7785de62b54d02138610389adf2ea2197487395",
+          "reason": "Construction equipment tax outside EV scope."
+        }
+      ],
+      "required_page_ids": [
+        "karnataka_registration_fee_2021-08-02:p3"
+      ]
+    },
+    "karnataka_tax_amendment_2026-04-10:p9": {
+      "page_text_sha256": "0b366074d1cdc68e3815d13edd4c27f1345fdc5b41dbdf7ac338660fef0b243f",
+      "context_role": "dated_tax_amendment",
+      "version_note": "Act29 of2026, published10April. EV slabs, age/refund rows and cab exclusion; separate commencement notification not collected.",
+      "exclude_spans": [
+        {
+          "start": 0,
+          "end": 750,
+          "text_sha256": "529b6df5ac787c684bfa2a4b052014c59dd699133aaa80e0909c993ddffaaaa5",
+          "reason": "Continuation of non-EV Part A8 before electric motor-cab Part A8(a)."
+        }
+      ],
+      "required_page_ids": [
+        "karnataka_registration_fee_2021-08-02:p3"
+      ]
+    },
+    "karnataka_tax_amendment_2026-04-10:p10": {
+      "page_text_sha256": "34470f7a861aec487c819a1d43cb88710a62a25a8acd337acec77382cc3b94d1",
+      "context_role": "dated_tax_amendment",
+      "version_note": "Act29 of2026, published10April. EV slabs, age/refund rows and cab exclusion; separate commencement notification not collected.",
+      "exclude_spans": [
+        {
+          "start": 808,
+          "end": 1504,
+          "text_sha256": "e7ed88978276b86da9282cbebdbacbb78ce623122df4a4e66b6718d31c0a4ec8",
+          "reason": "Drilling-rig schedule outside EV scope."
+        }
+      ],
+      "required_page_ids": [
+        "karnataka_registration_fee_2021-08-02:p3"
+      ]
+    },
+    "karnataka_tax_amendment_2026-04-10:p12": {
+      "page_text_sha256": "0067ff5ed30cac90721892fcbd697b48dd37c065c3be7a070c278104d5e28f8c",
+      "context_role": "dated_tax_amendment",
+      "version_note": "Act29 of2026, published10April. EV slabs, age/refund rows and cab exclusion; separate commencement notification not collected.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "karnataka_registration_fee_2021-08-02:p3"
+      ]
+    },
+    "karnataka_tax_amendment_2026-04-10:p13": {
+      "page_text_sha256": "ed444b621c3f9d6039fc0c3f630331565f931193066e1c11158af27933d2d23b",
+      "context_role": "dated_tax_amendment",
+      "version_note": "Act29 of2026, published10April. EV slabs, age/refund rows and cab exclusion; separate commencement notification not collected.",
+      "exclude_spans": [
+        {
+          "start": 377,
+          "end": 1248,
+          "text_sha256": "47f09d2abc0b26305592ff7d45993dde1a4d5c853d8a9a33d37fe813ff383426",
+          "reason": "General power/signature after electric-cab refund continuation."
+        }
+      ],
+      "required_page_ids": [
+        "karnataka_registration_fee_2021-08-02:p3"
+      ]
+    },
+    "karnataka_registration_fee_2021-08-02:p3": {
+      "page_text_sha256": "1f99a5b7108569892b020bbf65571e6b72d48c08414053a9e26da8e96911f453",
+      "context_role": "dated_registration_fee_rule",
+      "version_note": "Central CMVR GSR525(E), Karnataka Transport copy: rule81 serial4 registration fees only. English starts on physical page3; not a road-tax waiver.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p8": {
+      "page_text_sha256": "9e831cf6b162bb46b66bf955df4053048eefd26f14796244d9447e18431f8125",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p9": {
+      "page_text_sha256": "16d63ab88196ac93ac8f826e981a9a4b1ceb846f0e674d56fdfa40c1800ffd38",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p10": {
+      "page_text_sha256": "40ccd533a3feaef8236179f1fd1a42712043e9fe2153bf3af00eb16475602af2",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p11": {
+      "page_text_sha256": "cea2eb87b6401fcfbbc58e20df4da1f958097c6b08719903f2dc78d8eeb4e1cc",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p12": {
+      "page_text_sha256": "52fb7bbfca05e0cc25b8a2ba71fbd95a714d3f307451df0aa04ef46fdd6d71cc",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p13": {
+      "page_text_sha256": "0a93b5efca799d39826e9002a536c21eb9dd6f1614792a7f350690eb5c94f68a",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p14": {
+      "page_text_sha256": "324b67e284da0eb2d752e5aad70ea01d1cb5714ef2bf7b6dc2b405c4879fa930",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p15": {
+      "page_text_sha256": "2b71d33fc611104de8e98a4bc18d07ecd27267f2258cc06b74123b59592ff4a8",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p16": {
+      "page_text_sha256": "9197256f6b6655d0ec0a70ef6b2a18ed5e553e09c51442a8d58896fa0f540fa8",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p17": {
+      "page_text_sha256": "ac6107ab2f11f1458098871fab85ba749627308f64cd787d77224e0b8f197824",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p18": {
+      "page_text_sha256": "874942287c2ec00b8bdccff4df9320fcfcc4ae2005ee2569b97178974107ff25",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p8",
+        "madhya_pradesh_guidelines_2025-09-15:p9",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p19": {
+      "page_text_sha256": "715726019d2fae4d9e14e2a561985eb290e0a8dceae8715cfafa2935b8d9973d",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p8",
+        "madhya_pradesh_guidelines_2025-09-15:p9",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p20": {
+      "page_text_sha256": "3e7dda4dcaa176ee77d269a7d9ddea05935cd95a90d2acb3b7febffbd63659c6",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p8",
+        "madhya_pradesh_guidelines_2025-09-15:p9",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p21": {
+      "page_text_sha256": "baf4521d44d157d6d459d5741dc63b414a1a23fb0723e0be1f558d057f38ba3c",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p8",
+        "madhya_pradesh_guidelines_2025-09-15:p9",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p22": {
+      "page_text_sha256": "30807fa778be6d5b70580eb5dee2669e68196181b9b56a3a9fd1c9fecf0f58ee",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p8",
+        "madhya_pradesh_guidelines_2025-09-15:p9",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p23": {
+      "page_text_sha256": "63849a725d020396de90a2e39440554cbb4c97676e6197ac11a4987773cc843f",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p8",
+        "madhya_pradesh_guidelines_2025-09-15:p9",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p24": {
+      "page_text_sha256": "f547976c8ba5af88542b5e4d7cd0f0889f9e0efd4e5b3ea8b2e4e1925050380f",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p8",
+        "madhya_pradesh_guidelines_2025-09-15:p9",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p25": {
+      "page_text_sha256": "ff4da584fba35acaafac3f6305954964b1003af4ff733261a2a86b2c961176c7",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_guidelines_2025-09-15:p8",
+        "madhya_pradesh_guidelines_2025-09-15:p9",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p26": {
+      "page_text_sha256": "15469e9376ed86b706c6aaa38434720f4b6d704a6e6cae9fb8ff566005faa991",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p13",
+        "madhya_pradesh_guidelines_2025-09-15:p14",
+        "madhya_pradesh_guidelines_2025-09-15:p16",
+        "madhya_pradesh_guidelines_2025-09-15:p17",
+        "madhya_pradesh_guidelines_2025-09-15:p65"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p27": {
+      "page_text_sha256": "27339471d6da711f0f3aaf43522abf963226f9263652aa91de2f81f9a61af858",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p19",
+        "madhya_pradesh_guidelines_2025-09-15:p20",
+        "madhya_pradesh_guidelines_2025-09-15:p70",
+        "madhya_pradesh_guidelines_2025-09-15:p72"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p28": {
+      "page_text_sha256": "8a27467a4914a9d7ace3bc4da4c2a9d0de1ff2592734957ff7c5da0d70c97e4d",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p13",
+        "madhya_pradesh_guidelines_2025-09-15:p14",
+        "madhya_pradesh_guidelines_2025-09-15:p16",
+        "madhya_pradesh_guidelines_2025-09-15:p17",
+        "madhya_pradesh_guidelines_2025-09-15:p65"
+      ]
+    },
+    "madhya_pradesh_policy_2025:p29": {
+      "page_text_sha256": "8f6d7e561715a3673ff6e099b34744ce0195c0f47ab235637af5f635feec7aa0",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p30": {
+      "page_text_sha256": "db8fddbc4190b55e4a07bd917253bb1554169c93d9b8c0b61f864bab378f4412",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p31": {
+      "page_text_sha256": "db32bb3fc5dbee5ba7b3eea16d9b623940efb3b153854050b90c82b7cbe57625",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p32": {
+      "page_text_sha256": "b47a8f1b9273103812b87a5a5e7f80c62be747f5f38ef79847017c53b20804d5",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p33": {
+      "page_text_sha256": "3c7013116cc985a463e9da2195358ba193174f5470a4e1b1aecc834368b86956",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p34": {
+      "page_text_sha256": "c2a51a979ef16b0ca0f39a50edda070fe65d5c36748e513e17f2fee6d15a98be",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p35": {
+      "page_text_sha256": "c0759b7ab8a3f23ad1cc7f64fe5469c0f01b9cc5de6d7ab7cd87fe8247f4437d",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_policy_2025:p36": {
+      "page_text_sha256": "0a18cd07412ae95463905aca3bfec916a1596611dc383284d282fc307511fd66",
+      "context_role": "candidate_with_updates",
+      "version_note": "Final policy booklet; read with notified guidelines and unresolved transport-tax/operational status. No current entitlement established.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p1": {
+      "page_text_sha256": "c5304690c02563bafee907cf5a2afdd1074d31cd7697fb4066c9611f827e1c37",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p5": {
+      "page_text_sha256": "f37560d97fdd20389c8e6ca5c32241c023d91f5404daf9cce979e01831c3b99d",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p6": {
+      "page_text_sha256": "09a2d1a37703191dd490774d01db6e680d86b94eb8cfb41e36b381a117538750",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p7": {
+      "page_text_sha256": "da8c8abfa3c6e97fcf18a30f0166f125588b10e66df35928b919087cfa45f58f",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p8": {
+      "page_text_sha256": "8e2291a4d6b228ed5168e015c3b1bc419a4ea1437ff59e81f979a9f602ef576e",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_policy_2025:p25"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p9": {
+      "page_text_sha256": "9128d2b58b5ac00dd19caeb54967cc9f6855340c55603d5581f207a4d93c036b",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p20",
+        "madhya_pradesh_policy_2025:p25"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p10": {
+      "page_text_sha256": "c5da5a18654cd90be907ec6ec31f9db4f16a4bd25e2848531ee6cce77675c99f",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p11",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p11": {
+      "page_text_sha256": "3123cacf4cc4619ae878af3ef8bc7174d4c79d76ba681714146f0d78aa4e4d6c",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p12"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p12": {
+      "page_text_sha256": "708e3d34ae64c2e4523d13b635296bf1aea3970fa1c282ba60ee8be889e52683",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_policy_2025:p25",
+        "madhya_pradesh_guidelines_2025-09-15:p10",
+        "madhya_pradesh_guidelines_2025-09-15:p11"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p13": {
+      "page_text_sha256": "fbfbebd052669be75acbbcdea2e422600168e465a1c04eeebdf7922d03b9fbae",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p14"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p14": {
+      "page_text_sha256": "cae19fdb11b9c5c786ae6a9659c7173ea590af69156885735c761016ea4ea531",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p13"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p16": {
+      "page_text_sha256": "f6ba20f42485c67fbcfa434463aa00b6d910ef1f2c1e5f6ac8d14efe99b32aef",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p17",
+        "madhya_pradesh_guidelines_2025-09-15:p65",
+        "madhya_pradesh_guidelines_2025-09-15:p66",
+        "madhya_pradesh_guidelines_2025-09-15:p67"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p17": {
+      "page_text_sha256": "d2a3203b32c96a244710e36fe78fe37c343b515b41ec915ae912977f8d83d108",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p16",
+        "madhya_pradesh_guidelines_2025-09-15:p65",
+        "madhya_pradesh_guidelines_2025-09-15:p66",
+        "madhya_pradesh_guidelines_2025-09-15:p67"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p18": {
+      "page_text_sha256": "751d23ae9a5d5c4e2616b581db5bf0ccc8299f1851665adbeba3c869031accc8",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p19": {
+      "page_text_sha256": "89c9a2ae3e5b6770e3d7d0b66e96511f14ff0eb12c6f89130fecce2dbbf84e39",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p20",
+        "madhya_pradesh_guidelines_2025-09-15:p70",
+        "madhya_pradesh_guidelines_2025-09-15:p72"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p20": {
+      "page_text_sha256": "43897596ac0ac768e771adc0b9a253363436b5cfef30adbbc40993972eb9e680",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p19",
+        "madhya_pradesh_guidelines_2025-09-15:p70",
+        "madhya_pradesh_guidelines_2025-09-15:p72"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p21": {
+      "page_text_sha256": "bce3267ba89bdb55845d5c2c1b206a3c388aa556140097d2c38635fa222d4b79",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p22": {
+      "page_text_sha256": "9f3545d9be1055f96e8ffa01bfc4ed928baafa52f47c65344daedc0446e0ab31",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p23": {
+      "page_text_sha256": "2042d4dd90ea4437a99d914e21c412dfb593b875432a7686834e20f4c20895f3",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p24": {
+      "page_text_sha256": "f7770af87703d750d848c45aaaef9aa412cb8ed122363eb456f3c6902fcd8d7d",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p25": {
+      "page_text_sha256": "9f853adec7d5ba98a7b844c1168cdf8450b3cbff63d9eb5adff6f923fcecc3bf",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p26": {
+      "page_text_sha256": "c77fcd8e76a2e78d202d2e5c9fb7d7612d4ec7dfedb8245e3944b9dab304e1a9",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p27": {
+      "page_text_sha256": "c3c8dab45eebac442a74d2307a8a72302996b3feb9e5729512c68c41516f59ca",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p28": {
+      "page_text_sha256": "114c212af182f68696c70b1de09f828614c5bfa1ee7ff967113657fc7fa9a144",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": []
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p64": {
+      "page_text_sha256": "6d0e607205879cd9fefcf1e83fc4f2824ed84a4c8b366a9e230c9e981b80db2b",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p16",
+        "madhya_pradesh_guidelines_2025-09-15:p17",
+        "madhya_pradesh_guidelines_2025-09-15:p65",
+        "madhya_pradesh_guidelines_2025-09-15:p66",
+        "madhya_pradesh_guidelines_2025-09-15:p67"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p65": {
+      "page_text_sha256": "fe11ab58be0e43bf8cc1731283c761934ee009e8698474d6d026d6ee546de092",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p16",
+        "madhya_pradesh_guidelines_2025-09-15:p17",
+        "madhya_pradesh_guidelines_2025-09-15:p66",
+        "madhya_pradesh_guidelines_2025-09-15:p67"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p66": {
+      "page_text_sha256": "a963d8e0fe424078bff25089f28499505d4ae15e28aa18f150ff976e3b5de584",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p16",
+        "madhya_pradesh_guidelines_2025-09-15:p17",
+        "madhya_pradesh_guidelines_2025-09-15:p65",
+        "madhya_pradesh_guidelines_2025-09-15:p67"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p67": {
+      "page_text_sha256": "0dc6828c1869a9b31714ba4c5f62ec7b81b754679da3c8100fb264fbf1d3b378",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p16",
+        "madhya_pradesh_guidelines_2025-09-15:p17",
+        "madhya_pradesh_guidelines_2025-09-15:p65",
+        "madhya_pradesh_guidelines_2025-09-15:p66"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p70": {
+      "page_text_sha256": "133876717f5058bb148ae96d5b2ec695a1ce800f15ea044ca1a28da177196740",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p19",
+        "madhya_pradesh_guidelines_2025-09-15:p20",
+        "madhya_pradesh_guidelines_2025-09-15:p72"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p71": {
+      "page_text_sha256": "fe6c44327a8b4dd2c183063e194d7e21e4d6d061c67b3c9668d8b0967c84c031",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p19",
+        "madhya_pradesh_guidelines_2025-09-15:p20",
+        "madhya_pradesh_guidelines_2025-09-15:p70",
+        "madhya_pradesh_guidelines_2025-09-15:p72"
+      ]
+    },
+    "madhya_pradesh_guidelines_2025-09-15:p72": {
+      "page_text_sha256": "b8958345ac12f0d9c4d42f8638abb4da05413de6c77b620bdc7f21279bdaa187",
+      "context_role": "candidate_with_updates",
+      "version_note": "Notified September 2025 operational guidelines; existing OCR and selected AI readings pending team review.",
+      "exclude_spans": [],
+      "required_page_ids": [
+        "madhya_pradesh_guidelines_2025-09-15:p19",
+        "madhya_pradesh_guidelines_2025-09-15:p20",
+        "madhya_pradesh_guidelines_2025-09-15:p70"
+      ]
+    }
+  }
+}

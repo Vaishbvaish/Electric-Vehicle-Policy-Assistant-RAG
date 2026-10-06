@@ -1,0 +1,28 @@
+{
+  "checked_at_utc": "2026-09-29T16:43:09.352290+00:00",
+  "notebook_sha256": "66cb4b572fb15220d29643045754633388d59cba9c8c520bf556b88c4e669068",
+  "check_script_sha256": "fa1e186004de254502c9f7c27f633c97213464e1c9b85961f922c9f7bb01afa7",
+  "corpus_sha256": "25dd54fe4aa64a12fc30169addec4baf139712b8020cf313dc0c315d3cd76897",
+  "retrieval_k": 1,
+  "retrieval_rules_sha256": "930b0c19219209c25ad1a3f3d8ba2e61031358662c3fe9a3118fa42025c44f96",
+  "scope": "AI-authored technical checks; not formal team evaluation",
+  "technical_status": "passed",
+  "checks_passed": [
+    "cited_sources_only_with_original_pdf_page_links",
+    "jurisdiction_cutoff_review_status_and_original_excerpts_retained",
+    "all_assembled_evidence_retained_in_prompt_after_whitespace_compaction",
+    "duplicate_citation_ids_collapsed",
+    "numeric_comparison_symbols_rendered_as_words",
+    "unknown_ids_and_model_supplied_evidence_rejected",
+    "missing_citations_empty_support_and_claiming_abstention_rejected",
+    "model_links_markup_and_malformed_output_withheld",
+    "truncated_response_withheld_even_with_parseable_json",
+    "structured_abstention_has_no_policy_claims_or_sources",
+    "empty_evidence_and_retrieval_rejections_skip_generation",
+    "changed_jurisdiction_review_status_or_source_metadata_rejected",
+    "changed_evidence_text_or_hash_rejected",
+    "known_cycle_eligibility_overstatement_withheld_for_review"
+  ],
+  "invalid_response_cases": 13,
+  "groq_calls": 0
+}

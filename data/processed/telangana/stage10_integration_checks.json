@@ -1,0 +1,212 @@
+{
+  "checked_at_utc": "2026-09-29T16:43:19.470241+00:00",
+  "notebook_sha256": "66cb4b572fb15220d29643045754633388d59cba9c8c520bf556b88c4e669068",
+  "check_script_sha256": "ffb4dea7585cc8bba446e266f9f37de66dbc78eb8b3a53b1fdf10dd503f38523",
+  "source_manifest_sha256": "914260d5c4c942ee0db5908a5e0aacb1be38cc61922e3930b64086335706e179",
+  "retrieval_rules_sha256": "930b0c19219209c25ad1a3f3d8ba2e61031358662c3fe9a3118fa42025c44f96",
+  "index_spec": {
+    "collection": "ev_policy_draft",
+    "corpus_sha256": "25dd54fe4aa64a12fc30169addec4baf139712b8020cf313dc0c315d3cd76897",
+    "chunk_count": 804,
+    "embedding": {
+      "model": "nomic-embed-text:latest",
+      "digest": "0a109f422b47e3a30ba2b10eca18548e944e8a23073ee3f3e947efcf3c45e59f",
+      "num_ctx": 2048,
+      "langchain_ollama": "0.3.7"
+    },
+    "distance": "cosine",
+    "chunks_by_state": {
+      "Maharashtra": 53,
+      "Tamil Nadu": 78,
+      "Central": 100,
+      "Uttar Pradesh": 117,
+      "Delhi": 132,
+      "Gujarat": 31,
+      "Telangana": 32,
+      "Karnataka": 105,
+      "Madhya Pradesh": 156
+    }
+  },
+  "technical_status": "passed",
+  "scope": "AI development checks; not team source review or formal evaluation",
+  "checks_passed": [
+    "reopen_all_records_without_corpus_embedding",
+    "32_telangana_chunks",
+    "three_telangana_aliases",
+    "five_filtered_semantic_queries",
+    "conditions_and_continuations_present",
+    "only_two_registered_telangana_sources",
+    "all_13_pages_assemble_within_context_limit",
+    "old_tax_quotas_excluded_retrofit_and_ocr_update_preserved",
+    "five_rejections_skip_models_and_clear_sources",
+    "gradio_lists_telangana_and_other_loaded_jurisdictions"
+  ],
+  "embedding_calls": {
+    "corpus": 0,
+    "query": 5
+  },
+  "observations": [
+    {
+      "question": "What road tax and registration fee exemption, deadline and vehicle-count limit does the 2024 notification state for private electric cars?",
+      "page_ids": [
+        "telangana_policy_2020:p9",
+        "telangana_tax_fee_2024-11-16:p1"
+      ],
+      "context_chars": 2433,
+      "status": "retrieved"
+    },
+    {
+      "question": "What retrofit incentive rate, per-vehicle cap and vehicle-count limit does the policy state for three-seater auto rickshaws?",
+      "page_ids": [
+        "telangana_policy_2020:p9",
+        "telangana_tax_fee_2024-11-16:p1",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p11"
+      ],
+      "context_chars": 5330,
+      "status": "retrieved"
+    },
+    {
+      "question": "What highway charging-station spacing and residential-township size does the policy encourage?",
+      "page_ids": [
+        "telangana_policy_2020:p9",
+        "telangana_tax_fee_2024-11-16:p1",
+        "telangana_policy_2020:p11",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p10",
+        "telangana_policy_2020:p12"
+      ],
+      "context_chars": 6098,
+      "status": "retrieved"
+    },
+    {
+      "question": "What investment or employment threshold defines a mega manufacturing project?",
+      "page_ids": [
+        "telangana_policy_2020:p9",
+        "telangana_tax_fee_2024-11-16:p1",
+        "telangana_policy_2020:p13",
+        "telangana_policy_2020:p12",
+        "telangana_policy_2020:p14"
+      ],
+      "context_chars": 8600,
+      "status": "retrieved"
+    },
+    {
+      "question": "What net SGST annual cap, cumulative cap and reimbursement period are stated for mega enterprises?",
+      "page_ids": [
+        "telangana_policy_2020:p9",
+        "telangana_tax_fee_2024-11-16:p1",
+        "telangana_policy_2020:p13",
+        "telangana_policy_2020:p12",
+        "telangana_policy_2020:p14"
+      ],
+      "context_chars": 8600,
+      "status": "retrieved"
+    },
+    {
+      "all_page_context_range": [
+        2433,
+        9406
+      ]
+    },
+    {
+      "selection": "TS",
+      "question": "Tamil Nadu purchase subsidy?",
+      "result": {
+        "status": "clarification_required",
+        "answer": "Align the selected jurisdiction and the jurisdiction named in your question.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": "Telangana",
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Telangana",
+      "question": "Compare Telangana and Maharashtra incentives",
+      "result": {
+        "status": "clarification_required",
+        "answer": "Ask about one state or Central at a time; split comparisons and combined benefits into separate queries.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": "Telangana",
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Kerala",
+      "question": "Electric car subsidy?",
+      "result": {
+        "status": "unsupported_jurisdiction",
+        "answer": "Choose Central, Delhi, Gujarat, Karnataka, Madhya Pradesh, Maharashtra, Tamil Nadu, Telangana, Uttar Pradesh; other jurisdictions are not indexed yet.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": null,
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Telangana",
+      "question": "",
+      "result": {
+        "status": "clarification_required",
+        "answer": "Enter a specific EV policy question and choose one jurisdiction.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": null,
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    },
+    {
+      "selection": "Telangana",
+      "question": "Can I claim an EV subsidy today?",
+      "result": {
+        "status": "not_established",
+        "answer": "This prototype cannot verify current availability, remaining funds or your personal eligibility. Ask what the dated policy documents state; source review is still pending.",
+        "sources": [],
+        "points": [],
+        "jurisdiction": "Telangana",
+        "verification_cutoff": "2026-09-23",
+        "current_entitlement_answers_allowed": false,
+        "model": "openai/gpt-oss-120b",
+        "usage": {},
+        "reason": "current_entitlement_unverified",
+        "retryable": false,
+        "diagnostics": {}
+      }
+    }
+  ]
+}

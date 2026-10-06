@@ -1,0 +1,222 @@
+{
+  "prepared_on": "2026-09-23",
+  "preparation_status": "complete",
+  "acceptance_status": "pending_team_review",
+  "accepted_for_ingestion": false,
+  "language": "Original Marathi and embedded English; not translated.",
+  "engine": "tesseract 5.5.3",
+  "rendering": {
+    "tool": "pdftoppm",
+    "dpi": 300,
+    "grayscale": true,
+    "format": "png",
+    "source_pdfs_modified": false
+  },
+  "ocr_settings": {
+    "languages": "mar+eng",
+    "oem": 1,
+    "psm": "3 except June page 3 uses 6",
+    "whitespace_cleanup": "Raw files: trailing whitespace and file-boundary blank lines only. Separate proposed files contain documented AI corrections."
+  },
+  "models": {
+    "mar": {
+      "url": "https://raw.githubusercontent.com/tesseract-ocr/tessdata_best/e12c65a915945e4c28e237a9b52bc4a8f39a0cec/mar.traineddata",
+      "sha256": "799405456528ffd688bc8173ea9179c0646120436ac35099dccb175c4c70f652",
+      "bytes": 13437670
+    },
+    "eng": {
+      "local_source": "/opt/homebrew/share/tessdata/eng.traineddata",
+      "sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2"
+    }
+  },
+  "page_numbering": "Physical PDF pages, 1-based. Paths are relative to repository root.",
+  "pages": [
+    {
+      "source_id": "maharashtra_operational_guidelines_2025-06-19",
+      "source_pdf": "data/policies/maharashtra/maharashtra_ev_operational_guidelines_2025-06-19.pdf",
+      "source_sha256": "5e2f170788552027a38a644f6b0c333506cceb65d51633f8df6263b9f4dc052b",
+      "pdf_page": 1,
+      "draft_text": "data/ocr/maharashtra/2025-06-19/page-1.txt",
+      "draft_sha256": "949ec867ba44aa3c21c13b85bdd9f20dd45dbe2c435faba5f8ac374749cac0e6",
+      "text_characters": 2578,
+      "psm": 3,
+      "ai_spot_check": "full_page_compared_proposal_pending_team_review",
+      "issues_for_review": [
+        "Compare the complete proposed text with the original PDF; see the Source review section in README.md and its historical notes link for corrections, retained wording and unresolved details."
+      ],
+      "team_verified": false,
+      "reviewer": null,
+      "reviewed_on": null,
+      "corrected_text": null,
+      "proposed_text": "data/ocr/maharashtra/2025-06-19/page-1.proposed.txt",
+      "proposed_sha256": "28d562e975688da568cf19abe34109cdc29ee65bb4ed30a84f380554c8237fa2",
+      "proposal_notes": "README.md",
+      "ai_reviewed_on": "2026-09-23"
+    },
+    {
+      "source_id": "maharashtra_operational_guidelines_2025-06-19",
+      "source_pdf": "data/policies/maharashtra/maharashtra_ev_operational_guidelines_2025-06-19.pdf",
+      "source_sha256": "5e2f170788552027a38a644f6b0c333506cceb65d51633f8df6263b9f4dc052b",
+      "pdf_page": 2,
+      "draft_text": "data/ocr/maharashtra/2025-06-19/page-2.txt",
+      "draft_sha256": "e7626fdb37d685041e8105bc624db55d67dbec803b58d920c5996c4f77a65c84",
+      "text_characters": 3059,
+      "psm": 3,
+      "ai_spot_check": "full_page_compared_proposal_pending_team_review",
+      "issues_for_review": [
+        "Compare the complete proposed text with the original PDF; see the Source review section in README.md and its historical notes link for corrections, retained wording and unresolved details."
+      ],
+      "team_verified": false,
+      "reviewer": null,
+      "reviewed_on": null,
+      "corrected_text": null,
+      "proposed_text": "data/ocr/maharashtra/2025-06-19/page-2.proposed.txt",
+      "proposed_sha256": "21608fc5a776b77be963ff455238ad974452966e154eb731307f76b96edaa0d9",
+      "ai_reviewed_on": "2026-09-24",
+      "proposal_notes": "README.md"
+    },
+    {
+      "source_id": "maharashtra_operational_guidelines_2025-06-19",
+      "source_pdf": "data/policies/maharashtra/maharashtra_ev_operational_guidelines_2025-06-19.pdf",
+      "source_sha256": "5e2f170788552027a38a644f6b0c333506cceb65d51633f8df6263b9f4dc052b",
+      "pdf_page": 3,
+      "draft_text": "data/ocr/maharashtra/2025-06-19/page-3.txt",
+      "draft_sha256": "2cbd2203733f9e52fed9962c84e75875d3aaa867a5ac08dafdc9566c9c2a778b",
+      "text_characters": 3074,
+      "psm": 6,
+      "ai_spot_check": "full_page_compared_proposal_pending_team_review",
+      "issues_for_review": [
+        "Compare the complete proposed text with the original PDF; see the Source review section in README.md and its historical notes link for corrections, retained wording and unresolved details."
+      ],
+      "team_verified": false,
+      "reviewer": null,
+      "reviewed_on": null,
+      "corrected_text": null,
+      "proposed_text": "data/ocr/maharashtra/2025-06-19/page-3.proposed.txt",
+      "proposed_sha256": "7f5b9d2ca42513990d91927100fc20f24ac6d71b8b2c5e38a9fed9e9cebe9f6f",
+      "ai_reviewed_on": "2026-09-24",
+      "proposal_notes": "README.md"
+    },
+    {
+      "source_id": "maharashtra_operational_guidelines_2025-06-19",
+      "source_pdf": "data/policies/maharashtra/maharashtra_ev_operational_guidelines_2025-06-19.pdf",
+      "source_sha256": "5e2f170788552027a38a644f6b0c333506cceb65d51633f8df6263b9f4dc052b",
+      "pdf_page": 4,
+      "draft_text": "data/ocr/maharashtra/2025-06-19/page-4.txt",
+      "draft_sha256": "b3a07065f1a12b7487775693b6e7f6b00a54ae023e851008524a7d11474b7c19",
+      "text_characters": 757,
+      "psm": 3,
+      "ai_spot_check": "full_page_compared_proposal_pending_team_review",
+      "issues_for_review": [
+        "Compare the complete proposed text with the original PDF; see the Source review section in README.md and its historical notes link for corrections, retained wording and unresolved details."
+      ],
+      "team_verified": false,
+      "reviewer": null,
+      "reviewed_on": null,
+      "corrected_text": null,
+      "proposed_text": "data/ocr/maharashtra/2025-06-19/page-4.proposed.txt",
+      "proposed_sha256": "29aeeb8e31510979f6db597bfcfef2b7b682956a5fc2c1c3fc1d1f157dcfa579",
+      "ai_reviewed_on": "2026-09-24",
+      "proposal_notes": "README.md"
+    },
+    {
+      "source_id": "maharashtra_operational_guidelines_2025-07-28",
+      "source_pdf": "data/policies/maharashtra/maharashtra_ev_operational_guidelines_2025-07-28.pdf",
+      "source_sha256": "c10bf89841bb7a238f74e043943c34ad706663546af62a25fa2bd1198b2de61b",
+      "pdf_page": 1,
+      "draft_text": "data/ocr/maharashtra/2025-07-28/page-1.txt",
+      "draft_sha256": "e18653c89fcb346b4f19adc7effede33b291f3c5491db0ab798d821a6bac7986",
+      "text_characters": 2019,
+      "psm": 3,
+      "ai_spot_check": "full_page_compared_proposal_pending_team_review",
+      "issues_for_review": [
+        "Compare the complete proposed text with the original PDF; see the Source review section in README.md and its historical notes link for corrections, retained wording and unresolved details."
+      ],
+      "team_verified": false,
+      "reviewer": null,
+      "reviewed_on": null,
+      "corrected_text": null,
+      "proposed_text": "data/ocr/maharashtra/2025-07-28/page-1.proposed.txt",
+      "proposed_sha256": "6eff9187fd9cf5520c20dc5f9e4dfe9d72311e3045921d8a94d87f74c3d92fda",
+      "ai_reviewed_on": "2026-09-24",
+      "proposal_notes": "README.md"
+    },
+    {
+      "source_id": "maharashtra_corrigendum_2025-08-29",
+      "source_pdf": "data/policies/maharashtra/maharashtra_ev_corrigendum_2025-08-29.pdf",
+      "source_sha256": "c0e64b49da1c36de7d8bc7d6c31e2b197889f6944cb5b52431891ad07118f03e",
+      "pdf_page": 1,
+      "prepared_on": "2026-09-24",
+      "draft_text": "data/ocr/maharashtra/2025-08-29/page-1.txt",
+      "draft_sha256": "7982148a759416b61edf1032faf3bfec41ede534b6666523f49a4e28cf9622ff",
+      "text_characters": 1557,
+      "psm": 3,
+      "ai_spot_check": "full_page_compared_proposal_pending_team_review",
+      "ai_reviewed_on": "2026-09-24",
+      "issues_for_review": [
+        "Compare the full proposal with the original; keep old wording, replacement wording and distribution list roles distinct."
+      ],
+      "team_verified": false,
+      "reviewer": null,
+      "reviewed_on": null,
+      "corrected_text": null,
+      "proposed_text": "data/ocr/maharashtra/2025-08-29/page-1.proposed.txt",
+      "proposed_sha256": "a0e1547fa4bf598ac4b4062c5b966e4a14b32d57ff55bbfd01fe93a8438ea536",
+      "proposal_notes": "README.md",
+      "page_role": "old_wording_and_amendment_scope"
+    },
+    {
+      "source_id": "maharashtra_corrigendum_2025-08-29",
+      "source_pdf": "data/policies/maharashtra/maharashtra_ev_corrigendum_2025-08-29.pdf",
+      "source_sha256": "c0e64b49da1c36de7d8bc7d6c31e2b197889f6944cb5b52431891ad07118f03e",
+      "pdf_page": 2,
+      "prepared_on": "2026-09-24",
+      "draft_text": "data/ocr/maharashtra/2025-08-29/page-2.txt",
+      "draft_sha256": "8e13290036382657f480784c28eb95eb227cec21fb7c231e95d8e9eb5a1e4828",
+      "text_characters": 2189,
+      "psm": 3,
+      "ai_spot_check": "full_page_compared_proposal_pending_team_review",
+      "ai_reviewed_on": "2026-09-24",
+      "issues_for_review": [
+        "Compare the full proposal with the original; keep old wording, replacement wording and distribution list roles distinct."
+      ],
+      "team_verified": false,
+      "reviewer": null,
+      "reviewed_on": null,
+      "corrected_text": null,
+      "proposed_text": "data/ocr/maharashtra/2025-08-29/page-2.proposed.txt",
+      "proposed_sha256": "822cd5c33c0682894741faf59f4455a4b4ea9a3a7bd546aeee8458b9a39c2975",
+      "proposal_notes": "README.md",
+      "page_role": "replacement_wording_and_authority"
+    },
+    {
+      "source_id": "maharashtra_corrigendum_2025-08-29",
+      "source_pdf": "data/policies/maharashtra/maharashtra_ev_corrigendum_2025-08-29.pdf",
+      "source_sha256": "c0e64b49da1c36de7d8bc7d6c31e2b197889f6944cb5b52431891ad07118f03e",
+      "pdf_page": 3,
+      "prepared_on": "2026-09-24",
+      "draft_text": "data/ocr/maharashtra/2025-08-29/page-3.txt",
+      "draft_sha256": "8b9d87b700a82667749ceb206ea96ad82099b65887915de0b19c561eb41e08cd",
+      "text_characters": 1126,
+      "psm": 3,
+      "ai_spot_check": "full_page_compared_proposal_pending_team_review",
+      "ai_reviewed_on": "2026-09-24",
+      "issues_for_review": [
+        "Compare the full proposal with the original; keep old wording, replacement wording and distribution list roles distinct."
+      ],
+      "team_verified": false,
+      "reviewer": null,
+      "reviewed_on": null,
+      "corrected_text": null,
+      "proposed_text": "data/ocr/maharashtra/2025-08-29/page-3.proposed.txt",
+      "proposed_sha256": "eea5c34709e43222cb0b8d01b543975fbbedf88f995829006ff2c058b644cc63",
+      "proposal_notes": "README.md",
+      "page_role": "distribution_list_only"
+    }
+  ],
+  "batch_completed_on": "2026-09-24",
+  "ai_comparison_status": "complete_pending_team_acceptance",
+  "ready_for_extraction_tests": true,
+  "review_notes": "README.md",
+  "text_character_count_note": "Unicode characters in raw text after stripping file-boundary whitespace; SHA-256 covers the complete file bytes."
+}
